@@ -1,0 +1,729 @@
+FactNomClient	FactAdresse	FactVille	FactProvince	FactPays	FactCodePostal	LivrNomClient	LivrAdresse	LivrVille	LivrProvince	LivrPays	LivrCodePostal	Quantité	Produit	PrixUnitaire
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Rakhimé Abdul Kader	234 Washington St	Hoboken	New Jersey	États-Unis	07030	100	(2140) TAMPON VERT MOYEN 6X9 UN NO.90-96 (196F-226	0.13
+Mahsa Nikkami	3475 Boul. Sainte-Anne	Beauport	Québec	Canada	G1E 3L5	Mahsa Nikkami	3475 Boul. Sainte-Anne	Beauport	Québec	Canada	G1E 3L5	100	(4360) SYSTÈME DE DILUTION FREEDOM FASTDRAW UN FAS	0.08
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Bach Kim Tran	8000 Av. Des Églises	Charny	Québec	Canada	G6X 1X4	80	(4495) DISTRIBUTEUR AUTO SAVON MOUSSE BLANC UN 918	0.04
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	1825 Route Des Rivières	Lévis	Québec	Canada	G7A 1C8	20	(3835) BLOC URINOIR BLEU AVEC ENZYMES NON-PARA 12/	0.11
+Sébastien Lourties	395 Flatbush Ave Exten	Brooklyn	New York	États-Unis	11201	Mayssa Mahmoud	1 Rue Notre-Dame Ouest	Montréal	Québec	Canada	H2Y 1S5	70	(1735) TAMPONS POLISSAGE BLANC 15 5/CS (14415)	0.12
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Bach Kim Tran	8000 Av. Des Églises	Charny	Québec	Canada	G6X 1X4	50	(3505) SC1000 (2) DÉTERGENT LAVE-VAISSELLE 4L 4 LI	0.11
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Francis Charette	2950 Boul. Laurier	Sainte-Foy	Québec	Canada	G1V 2M4	40	(2545) BIO ACIDE (18) DÉTERGENT ACIDE 4L 4 LITRES 	11.57
+Abde-Nnour Rahmouni	885 Bloor St West	Toronto	Ontario	Canada	M6G 1M4	Abde-Nnour Rahmouni	885 Bloor St West	Toronto	Ontario	Canada	M6G 1M4	40	(2200) TAMPON PLANCHER MOYEN BLEU 4.5X10 20/CS OCT	9.40
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Alexandra Haché	675 Yonge Street	Toronto	Ontario	Canada	M4Y 1T2	30	(2215) TAMPON PLANCHER FORT NOIR 4.5X10 20/CS OCTO	8.70
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Pénélope Breugnon	345 Bloor Street East	Toronto	Ontario	Canada	M4W 3J6	50	(1345) TAMPONS DE DECAPAGE NOIR 16 5/CS (20010)	10.54
+Lia Mansour	5252 Cote Des Neiges	Montréal	Québec	Canada	H3T 1X8	Philippe Marion	1692 Rue Mont Royal	Montréal	Québec	Canada	H2J 1Z5	10	(3190) CYCLONE HE (52) DÉTERGENT POUR LESSIVE HE 2	8.13
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Theo De Coninck	1703 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2J5	70	(3250) D-8500 (11) DÉGRAISSEUR TOUT-USAGE 4L 4 LIT	11.32
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Theo De Coninck	1703 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2J5	20	(1915) TAMPONS ULTRA HAUTE VITESSE BRUNISSAGE AQUA	3.10
+Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	Kawtar Boulhroude	809 6th Ave	Manhattan	New York	États-Unis	10001	80	(2515) AR2000 (1) ADDITIF DE RINÇAGE VAISSELLE 20L	6.02
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	1825 Route Des Rivières	Lévis	Québec	Canada	G7A 1C8	40	(1615) TAMPONS NETTOYAGE BLEU 17 5/CS (20206)	4.09
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	30	(4390) RACK POUR PRODUIT DE DILUTION FASTDRAW UN F	11.77
+Gabriel Thiéry	44D Route Du Président-Kennedy	Lévis	Québec	Canada	G6V 6C5	Gabriel Thiéry	44D Route Du Président-Kennedy	Lévis	Québec	Canada	G6V 6C5	50	(3970) EXTREME DÉCAPANT À PLANCHER 3.78L 3.78 LITR	11.09
+Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	100	(2890) BIO-TECH (P) NETTOYEUR À PLANCHER ET SURFAC	4.54
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	160 Spadina Avenue	Toronto	Ontario	Canada	M5T 2C2	80	(3115) COMPLET (52) DÉTERGENT EN POUDRE POUR LESSI	5.08
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Pénélope Breugnon	345 Bloor Street East	Toronto	Ontario	Canada	M4W 3J6	50	(1885) TAMPONS ULTRA HAUTE VITESSE BRUNISSAGE AQUA	6.71
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Thomas Donadei	2010 Av. Papineau	Montréal	Québec	Canada	H2K 4J4	70	(4285) SURE BET II 16 NETTOYEUR MOUSSANT POUR DOUC	8.18
+Alice Menez	127 Church Street	Toronto	Ontario	Canada	M5C 2G5	Alice Menez	127 Church Street	Toronto	Ontario	Canada	M5C 2G5	20	(2875) BIO-TECH (O) NEUTRALISANT D'ODEUR 1L 1 LITR	3.02
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	404 E 14th St	New York	New York	États-Unis	10009	20	(1660) TAMPONS NETTOYAGE BLEU 20 5/CS (20209)	4.09
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Camille Balducchi	1221 King Street West	Toronto	Ontario	Canada	M6K 1G3	70	(3865) GLARE FINI À PLANCHER 18.9L 18.9 LITRES 605	4.54
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Thomas Donadei	2520 Ch. Des Quatre-Bourgeois	Sainte-Foy	Québec	Canada	G1V 4R2	20	(2740) BDL-52 (52) BUANDERIE 20L 20 LITRES TS-5200	5.79
+Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	Kawtar Boulhroude	809 6th Ave	Manhattan	New York	États-Unis	10001	60	(1420) TAMPONS DE DECAPAGE NOIR 21 5/CS (20015)	10.54
+Kevin Rabah	3026 Rue Notre-Dame Ouest	Montréal	Québec	Canada	H4C 1P1	Kevin Rabah	3026 Rue Notre-Dame Ouest	Montréal	Québec	Canada	H4C 1P1	70	(2380) BAN-O DÉSODORISANT 3.64L 3.64 LITRES	7.49
+Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	60	(4255) SPRAY FOAM ULTRA 29 DÉGRAISSEUR MOUSSE 2L 2	10.19
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Philippe Hanna	640 Rue Sainte-Catherine Ouest	Montréal	Québec	Canada	H3B 1B8	80	(3145) CYCLONE (52) DÉTERGENT POUR LESSIVE 4L 4 LI	9.11
+Lia Mansour	5252 Cote Des Neiges	Montréal	Québec	Canada	H3T 1X8	Philippe Marion	1692 Rue Mont Royal	Montréal	Québec	Canada	H2J 1Z5	50	(1105) TAMPON À CHAUDRON 3.5X5 20/CS NIAGARA	7.81
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Francis Charette	102 1st Ave.	New York	New York	États-Unis	10003	90	(2590) BIO-3000 (2) DÉTERGENT POUDRE VAISSELLE 4KG	7.85
+Gabriel Thiéry	44D Route Du Président-Kennedy	Lévis	Québec	Canada	G6V 6C5	Gabriel Thiéry	44D Route Du Président-Kennedy	Lévis	Québec	Canada	G6V 6C5	90	(2275) TAMPON ÉPONGE RÉCURANTE MOYENNE 6.25X3.18 U	11.93
+Abde-Nnour Rahmouni	885 Bloor St West	Toronto	Ontario	Canada	M6G 1M4	Abde-Nnour Rahmouni	885 Bloor St West	Toronto	Ontario	Canada	M6G 1M4	60	(2755) BDL-52 (52) BUANDERIE 55L 55 LITRES TS-5200	12.79
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Alexandru Dan Craciun	590 Boul. Wilfrid-Hamel	Québec	Québec	Canada	G1M 2T3	70	(2005) TAMPONS LUSTRAGE ROUGE 14 5/CS (20047)	8.48
+Mahsa Nikkami	3475 Boul. Sainte-Anne	Beauport	Québec	Canada	G1E 3L5	Mahsa Nikkami	52 Fulton St	New York	New York	États-Unis	10038	100	(2575) BIO-CRYSTAL (14) NETTOYEUR EN CRÈME AVEC AB	11.79
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	40	(3475) RINCE PM NO.10 (1) AGENT DE RINÇAGE LAVE-VA	12.31
+Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	30	(4600) GREEN EARTH DÉTERGENT POUR CHAUDRON 3.63KG 	11.94
+Mahsa Nikkami	3475 Boul. Sainte-Anne	Beauport	Québec	Canada	G1E 3L5	Mahsa Nikkami	52 Fulton St	New York	New York	États-Unis	10038	70	(3895) HARD AS NAILS FINI À PLANCHER 18.9L 18.9 LI	12.52
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Antoine Coucke	160 Broadway	New York	New York	États-Unis	10038	100	(1075) TAMPON VERT ULTRA ROBUSTE 6X9 12/BTE 3M SCO	7.81
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Rakhimé Abdul Kader	234 Washington St	Hoboken	New Jersey	États-Unis	07030	40	(1180) BICARBONATE DE SODIUM LB LB	11.05
+Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	80	(2995) BOD SAN 2.5 (10) ASSAINISSEUR DÉSINFECTANT 	12.81
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Chanel Larivière	167 Chambers St	New York	New York	États-Unis	10013	40	(3355) NEUTRAL 500 PLUS (12) DÉTERGENT NEUTRE 20L 	5.00
+Gabriel Thiéry	44D Route Du Président-Kennedy	Lévis	Québec	Canada	G6V 6C5	Gabriel Thiéry	44D Route Du Président-Kennedy	Lévis	Québec	Canada	G6V 6C5	40	(3085) COMPLET LIQUIDE (52) DÉTERGENT POUR LESSIVE	5.19
+Kevin Rabah	3026 Rue Notre-Dame Ouest	Montréal	Québec	Canada	H4C 1P1	Kevin Rabah	3026 Rue Notre-Dame Ouest	Montréal	Québec	Canada	H4C 1P1	100	(1270) SERVIETTE HUMIDE 4''X7'' 1000/CS 1000/CS	7.72
+Kevin Rabah	3026 Rue Notre-Dame Ouest	Montréal	Québec	Canada	H4C 1P1	Louis Radamelle	3481 Rue Clémenceau	Beauport	Québec	Canada	G1C 0H8	10	(2275) TAMPON ÉPONGE RÉCURANTE MOYENNE 6.25X3.18 U	11.93
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Francis Charette	2950 Boul. Laurier	Sainte-Foy	Québec	Canada	G1V 2M4	40	(2380) BAN-O DÉSODORISANT 3.64L 3.64 LITRES	7.49
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Pénélope Breugnon	345 Bloor Street East	Toronto	Ontario	Canada	M4W 3J6	40	(3445) POLINOX (15) POLI NETTOYANT POUR ACIER INOX	12.16
+Mahsa Nikkami	3475 Boul. Sainte-Anne	Beauport	Québec	Canada	G1E 3L5	Tania Provencher	335 8th Ave	Manhattan	New York	États-Unis	10001	40	(1810) TAMPONS POLISSAGE BLANC 20 5/CS (14420)	11.64
+Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	Syrine Tahar	317 Broadway	New York	New York	États-Unis	10007	80	(2995) BOD SAN 2.5 (10) ASSAINISSEUR DÉSINFECTANT 	12.81
+Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	Syrine Tahar	317 Broadway	New York	New York	États-Unis	10007	10	(4300) TOP FLITE 3 NETTOYEUR TOUT-USAGE 2L 2 LITRE	4.60
+Elyse Simard	552 Yonge Street	Toronto	Ontario	Canada	M4Y 1Y8	Grégoire Tabouis	267 Broadway	Brooklyn	New York	États-Unis	11211	40	(4075) GREEN EARTH 20 NETTOYEUR À PLANCHER QUOTIDI	5.46
+Gabriel Thiéry	44D Route Du Président-Kennedy	Lévis	Québec	Canada	G6V 6C5	Gabriel Thiéry	44D Route Du Président-Kennedy	Lévis	Québec	Canada	G6V 6C5	20	(4540) DETERGENT 115 DÉTERGENT LAVE-VAISSELLE 18.9	5.59
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Chanel Larivière	167 Chambers St	New York	New York	États-Unis	10013	70	(1090) TAMPON À CHAUDRON 3.5X5 10/BTE 3M SCOTCH-BR	6.35
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	160 Spadina Avenue	Toronto	Ontario	Canada	M5T 2C2	40	(4060) ÉTIQUETTE DÉSINFECTANT À USAGE QUOTIDIEN SC	7.90
+Sébastien Lourties	395 Flatbush Ave Exten	Brooklyn	New York	États-Unis	11201	Sébastien Lourties	395 Flatbush Ave Exten	Brooklyn	New York	États-Unis	11201	90	(3340) NEUTRAL 500 PLUS (12) DÉTERGENT NEUTRE 4L 4	11.92
+Sébastien Lourties	395 Flatbush Ave Exten	Brooklyn	New York	États-Unis	11201	Sébastien Lourties	395 Flatbush Ave Exten	Brooklyn	New York	États-Unis	11201	90	(3835) BLOC URINOIR BLEU AVEC ENZYMES NON-PARA 12/	11.00
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	60	(3205) DL-E (60) DÉTERGENT AVEC ENZYMES POUR LESSI	10.11
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	20	(4405) PULL NETTOYEUR À CUVETTE 946ML 946 ML 07112	9.88
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Gautier Lebastard	344 Bathurst Street	Toronto	Ontario	Canada	M5T 2S3	80	(1630) TAMPONS NETTOYAGE BLEU 18 5/CS (20207)	4.09
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Derrick Celestin	356 Yonge Street	Toronto	Ontario	Canada	M5B 1S5	100	(3745) VAPORISATEUR BEC MOUSSEUR UN TS-9950120	4.35
+Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	Syrine Tahar	317 Broadway	New York	New York	États-Unis	10007	50	(2725) BD-53 (53) BUANDERIE 55L 55 LITRES TS-53005	6.96
+Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	30	(4270) SPRAY FOAM ULTRA 29 ÉTIQUETTE POUR ASSAINIS	11.88
+Kevin Rabah	3026 Rue Notre-Dame Ouest	Montréal	Québec	Canada	H4C 1P1	Louis Radamelle	3481 Rue Clémenceau	Beauport	Québec	Canada	G1C 0H8	80	(1300) TAMPONS DE DECAPAGE NOIR 12 5/CS (20006)	10.54
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Rakhimé Abdul Kader	2901 Sherbrooke St Est	Montréal	Québec	Canada	H1W 1B2	40	(1735) TAMPONS POLISSAGE BLANC 15 5/CS (14415)	11.64
+Elyse Simard	552 Yonge Street	Toronto	Ontario	Canada	M4Y 1Y8	Elyse Simard	552 Yonge Street	Toronto	Ontario	Canada	M4Y 1Y8	60	(2080) TAMPONS LUSTRAGE ROUGE 20 5/CS (20053)	8.48
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	136 W 3rd St	New York	New York	États-Unis	10012	20	(1840) TAMPONS POLISSAGE BLANC 24 5/CS (14424)	11.64
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	70	(3775) CONTRÔLE D'ODEUR FIRE D EN AÉROSOL 5 OZ ONE	8.75
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Lucas Larbodière	470 Yonge Street	Toronto	Ontario	Canada	M4Y 1X5	20	(2575) BIO-CRYSTAL (14) NETTOYEUR EN CRÈME AVEC AB	11.79
+Elyse Simard	552 Yonge Street	Toronto	Ontario	Canada	M4Y 1Y8	Grégoire Tabouis	267 Broadway	Brooklyn	New York	États-Unis	11211	70	(2125) TAMPON VERT MOYEN 6X9 10/PQT 10/PQT NO.90-9	10.76
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Gautier Lebastard	344 Bathurst Street	Toronto	Ontario	Canada	M5T 2S3	70	(4150) PUSH 28 ÉTIQUETTE POUR SOLUTION BIOACTIVE U	11.21
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	404 E 14th St	New York	New York	États-Unis	10009	10	(4300) TOP FLITE 3 NETTOYEUR TOUT-USAGE 2L 2 LITRE	4.60
+Gabriel Thiéry	44D Route Du Président-Kennedy	Lévis	Québec	Canada	G6V 6C5	Gabriel Thiéry	44D Route Du Président-Kennedy	Lévis	Québec	Canada	G6V 6C5	90	(1675) TAMPONS HP500 DECAPANT PUISSANT 20 5/CS (43	7.08
+Lia Mansour	5252 Cote Des Neiges	Montréal	Québec	Canada	H3T 1X8	Lia Mansour	710 King Street West	Toronto	Ontario	Canada	M5V 2Y6	100	(4450) SAVON MOUSSE ANTIBACTÉRIEN 6 X 1000ML/CS 75	7.36
+Lia Mansour	5252 Cote Des Neiges	Montréal	Québec	Canada	H3T 1X8	Lia Mansour	5252 Cote Des Neiges	Montréal	Québec	Canada	H3T 1X8	90	(3640) THUNDER (52) DÉTERGENT COMPLET BUANDERIE 4L	7.14
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Bach Kim Tran	760 Rue Bouvier	Québec	Québec	Canada	G2J 1A3	90	(3670) VIVA (5) DÉTERGENT À VAISSELLE 4L 4 LITRES 	4.78
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	80	(4450) SAVON MOUSSE ANTIBACTÉRIEN 6 X 1000ML/CS 75	7.36
+Ken Seidenstein	1016 De La Montagne	Montréal	Québec	Canada	H3G 1Y7	Ken Seidenstein	1016 De La Montagne	Montréal	Québec	Canada	H3G 1Y7	90	(1195) LAINE D'ACIER EXTRAFINE BULLDOG NO.000 160/	12.82
+Mahsa Nikkami	3475 Boul. Sainte-Anne	Beauport	Québec	Canada	G1E 3L5	Mahsa Nikkami	3475 Boul. Sainte-Anne	Beauport	Québec	Canada	G1E 3L5	10	(4330) STATION DE DILUTION FASTDRAW 1 ACTION GAP U	10.83
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Pénélope Breugnon	345 Bloor Street East	Toronto	Ontario	Canada	M4W 3J6	30	(1615) TAMPONS NETTOYAGE BLEU 17 5/CS (20206)	4.09
+Alice Menez	127 Church Street	Toronto	Ontario	Canada	M5C 2G5	Alice Menez	127 Church Street	Toronto	Ontario	Canada	M5C 2G5	70	(3610) SC3000 (2) DÉTERGENT À VAISSELLE 20L 20 LIT	9.31
+Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	Syrine Tahar	317 Broadway	New York	New York	États-Unis	10007	20	(1450) TAMPONS DE FROTTAGE VERT 13 5/CS (20124)	12.97
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	20	(2770) BIO DETACHANT (3) ASSAINISSEUR VAISSELLE 4L	11.11
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Bach Kim Tran	760 Rue Bouvier	Québec	Québec	Canada	G2J 1A3	10	(1060) TAMPON GRILLE CHAUDE 4.5X5.5 10/BTE 3M SCOT	6.35
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	404 E 14th St	New York	New York	États-Unis	10009	60	(4555) RINSE AID 315 ADDITIF RINCE LAVE-VAISSELLE 	4.66
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Sharlie-Anne Vivier	208 Varrick St	New York	New York	États-Unis	10014	30	(1510) TAMPONS DE FROTTAGE VERT 18 5/CS (20129)	12.97
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	100	(2620) BA-54 (54) ASSOUPLISSEUR 4L 4 LITRES TS-540	11.61
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Gautier Lebastard	344 Bathurst Street	Toronto	Ontario	Canada	M5T 2S3	30	(1420) TAMPONS DE DECAPAGE NOIR 21 5/CS (20015)	10.54
+Kevin Rabah	3026 Rue Notre-Dame Ouest	Montréal	Québec	Canada	H4C 1P1	Kevin Rabah	3026 Rue Notre-Dame Ouest	Montréal	Québec	Canada	H4C 1P1	70	(1675) TAMPONS HP500 DECAPANT PUISSANT 20 5/CS (43	7.08
+Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	30	(1090) TAMPON À CHAUDRON 3.5X5 10/BTE 3M SCOTCH-BR	6.35
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	90	(4180) GREEN EARTH 11 ÉTIQUETTE POUR NETTOYEUR PER	5.78
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Rakhimé Abdul Kader	2901 Sherbrooke St Est	Montréal	Québec	Canada	H1W 1B2	20	(3760) DÉSODORISANT MOUSSE À TAPIS AÉROSOL 14 OZ	11.28
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Rakhimé Abdul Kader	2901 Sherbrooke St Est	Montréal	Québec	Canada	H1W 1B2	50	(2860) BIO-SOUR (55) NEUTRALISANT POUR LESSIVE 55L	10.32
+Gabriel Thiéry	44D Route Du Président-Kennedy	Lévis	Québec	Canada	G6V 6C5	Gabriel Thiéry	44D Route Du Président-Kennedy	Lévis	Québec	Canada	G6V 6C5	100	(3925) HYBRID FINI À PLANCHER 18.9L 18.9 LITRES 66	3.12
+Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	Syrine Tahar	317 Broadway	New York	New York	États-Unis	10007	50	(4495) DISTRIBUTEUR AUTO SAVON MOUSSE BLANC UN 918	4.29
+Kevin Rabah	3026 Rue Notre-Dame Ouest	Montréal	Québec	Canada	H4C 1P1	Louis Radamelle	3481 Rue Clémenceau	Beauport	Québec	Canada	G1C 0H8	10	(1405) TAMPONS DE DECAPAGE NOIR 20 5/CS (20014)	10.54
+Lia Mansour	5252 Cote Des Neiges	Montréal	Québec	Canada	H3T 1X8	Lia Mansour	710 King Street West	Toronto	Ontario	Canada	M5V 2Y6	10	(1825) TAMPONS POLISSAGE BLANC 21 5/CS (14421)	11.64
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	50	(1840) TAMPONS POLISSAGE BLANC 24 5/CS (14424)	11.64
+Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	60	(2125) TAMPON VERT MOYEN 6X9 10/PQT 10/PQT NO.90-9	10.76
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Bach Kim Tran	760 Rue Bouvier	Québec	Québec	Canada	G2J 1A3	50	(4255) SPRAY FOAM ULTRA 29 DÉGRAISSEUR MOUSSE 2L 2	10.19
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Bach Kim Tran	760 Rue Bouvier	Québec	Québec	Canada	G2J 1A3	40	(1570) TAMPONS NETTOYAGE BLEU 14 5/CS (20203)	4.09
+Lia Mansour	5252 Cote Des Neiges	Montréal	Québec	Canada	H3T 1X8	Lia Mansour	710 King Street West	Toronto	Ontario	Canada	M5V 2Y6	60	(2740) BDL-52 (52) BUANDERIE 20L 20 LITRES TS-5200	5.79
+Sébastien Lourties	395 Flatbush Ave Exten	Brooklyn	New York	États-Unis	11201	Sébastien Lourties	395 Flatbush Ave Exten	Brooklyn	New York	États-Unis	11201	80	(4210) GREEN EARTH 32 ÉTIQUETTE NETTOYEUR POUR SAL	7.05
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	1825 Route Des Rivières	Lévis	Québec	Canada	G7A 1C8	70	(2395) CHIC DÉSODORISANT POUDRE À TAPIS 1000GR 100	10.55
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Chanel Larivière	167 Chambers St	New York	New York	États-Unis	10013	60	(3775) CONTRÔLE D'ODEUR FIRE D EN AÉROSOL 5 OZ ONE	8.75
+Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	Syrine Tahar	317 Broadway	New York	New York	États-Unis	10007	100	(3565) SC1000 PLUS X (2) DÉTERGENT LAVE-VAISSELLE 	10.57
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	50	(4540) DETERGENT 115 DÉTERGENT LAVE-VAISSELLE 18.9	5.59
+Lia Mansour	5252 Cote Des Neiges	Montréal	Québec	Canada	H3T 1X8	Lia Mansour	710 King Street West	Toronto	Ontario	Canada	M5V 2Y6	80	(2545) BIO ACIDE (18) DÉTERGENT ACIDE 4L 4 LITRES 	11.57
+Alice Menez	127 Church Street	Toronto	Ontario	Canada	M5C 2G5	Ana Moscal	4100 1re Avenue	Charlesbourg	Québec	Canada	G1H 2S4	100	(2350) MULTI ACTION 5 DÉSINFECTANT 4L 4 LITRES	5.61
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Toni Wehbeh	197 12th St	Jersey City	New Jersey	États-Unis	07310	100	(3385) NEUTRA-QUAT (31) NETTOYEUR DÉSINFECTANT 4L 	6.82
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Antoine Coucke	160 Broadway	New York	New York	États-Unis	10038	40	(3040) CHEF 6000 (8) NETTOYEUR À PLAQUE 4L 4 LITRE	8.01
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Toni Wehbeh	197 12th St	Jersey City	New Jersey	États-Unis	07310	60	(2800) BD-3 (3) ASSAINISSEUR VAISSELLE 6 4L 4 LITR	11.87
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	215 Rue Peel	Montréal	Québec	Canada	H3C 2G6	80	(2275) TAMPON ÉPONGE RÉCURANTE MOYENNE 6.25X3.18 U	11.93
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Philippe Hanna	640 Rue Sainte-Catherine Ouest	Montréal	Québec	Canada	H3B 1B8	50	(2440) KLINGER NETTOYEUR À CUVETTE 4L 4 LITRES	7.57
+Lia Mansour	5252 Cote Des Neiges	Montréal	Québec	Canada	H3T 1X8	Philippe Marion	1692 Rue Mont Royal	Montréal	Québec	Canada	H2J 1Z5	40	(2665) BIO-ALKALI (51) ADDITIF BUANDERIE 20L 20 LI	8.19
+Alice Menez	127 Church Street	Toronto	Ontario	Canada	M5C 2G5	Alice Menez	127 Church Street	Toronto	Ontario	Canada	M5C 2G5	20	(1510) TAMPONS DE FROTTAGE VERT 18 5/CS (20129)	12.97
+Elyse Simard	552 Yonge Street	Toronto	Ontario	Canada	M4Y 1Y8	Elyse Simard	552 Yonge Street	Toronto	Ontario	Canada	M4Y 1Y8	60	(1840) TAMPONS POLISSAGE BLANC 24 5/CS (14424)	11.64
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Francis Charette	2950 Boul. Laurier	Sainte-Foy	Québec	Canada	G1V 2M4	20	(1660) TAMPONS NETTOYAGE BLEU 20 5/CS (20209)	4.09
+Elyse Simard	552 Yonge Street	Toronto	Ontario	Canada	M4Y 1Y8	Elyse Simard	552 Yonge Street	Toronto	Ontario	Canada	M4Y 1Y8	40	(1135) TAMPON VERT MOYEN 6X9 10/PQT 3M SCOTCH-BRIT	6.35
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	404 E 14th St	New York	New York	États-Unis	10009	60	(3715) NEUTRAL 500 PLUS (12) BOUTEILLE VIDE 710ML 	8.07
+Ludovic Desharnais-Gervais	8900 Boul. Henri-Bourassa	Charlesbourg	Québec	Canada	G1G 4O3	Ludovic Desharnais-Gervais	8900 Boul. Henri-Bourassa	Charlesbourg	Québec	Canada	G1G 4O3	30	(3580) SC1000 PLUS X (2) DÉTERGENT LAVE-VAISSELLE 	12.95
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Derrick Celestin	356 Yonge Street	Toronto	Ontario	Canada	M5B 1S5	20	(1555) TAMPONS NETTOYAGE BLEU 13 5/CS (20202)	4.09
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Bach Kim Tran	760 Rue Bouvier	Québec	Québec	Canada	G2J 1A3	30	(2950) BMF-ULTRA SAN (13) SAVON À MAINS 4L 4 LITRE	7.33
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Bach Kim Tran	8000 Av. Des Églises	Charny	Québec	Canada	G6X 1X4	80	(4030) CITRUS CHISEL 10 ÉTIQUETTE POUR DÉGRAISSEUR	9.34
+Alice Menez	127 Church Street	Toronto	Ontario	Canada	M5C 2G5	Ana Moscal	4100 1re Avenue	Charlesbourg	Québec	Canada	G1H 2S4	10	(2440) KLINGER NETTOYEUR À CUVETTE 4L 4 LITRES	7.57
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Thomas Donadei	2520 Ch. Des Quatre-Bourgeois	Sainte-Foy	Québec	Canada	G1V 4R2	80	(1915) TAMPONS ULTRA HAUTE VITESSE BRUNISSAGE AQUA	3.10
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Francis Charette	102 1st Ave.	New York	New York	États-Unis	10003	70	(1390) TAMPONS DE DECAPAGE NOIR 19 5/CS (20013)	10.54
+Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	Simon Thellend	30 Mall Dr W	Jersey City	New Jersey	États-Unis	07310	30	(2425) FIESTA DÉTACHANT POUR TISSUS 4L 4 LITRES	6.12
+Sébastien Lourties	395 Flatbush Ave Exten	Brooklyn	New York	États-Unis	11201	Mayssa Mahmoud	1 Rue Notre-Dame Ouest	Montréal	Québec	Canada	H2Y 1S5	30	(4420) PRO R PRÉLAVAGE POUR RÉSIDU MÉTALLIQUE 946M	12.52
+Elyse Simard	552 Yonge Street	Toronto	Ontario	Canada	M4Y 1Y8	Elyse Simard	552 Yonge Street	Toronto	Ontario	Canada	M4Y 1Y8	60	(3280) DÉGRAISSEUR DÉFINSECTANT (6) ASSAINISSEUR 4	4.05
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	30	(2440) KLINGER NETTOYEUR À CUVETTE 4L 4 LITRES	7.57
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Alexandra Haché	675 Yonge Street	Toronto	Ontario	Canada	M4Y 1T2	80	(3430) P-4000 (4) POUDRE TREMPAGE USTENSILE 20KG 2	6.76
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Chanel Larivière	167 Chambers St	New York	New York	États-Unis	10013	80	(2305) ANTI-MICROBE DISTRIBUTEUR POUR CARTOUCHE 1L	3.14
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Francis Charette	26 E 23rd St	New York	New York	États-Unis	10010	10	(1795) TAMPONS POLISSAGE BLANC 19 5/CS (14419)	11.64
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Pénélope Breugnon	345 Bloor Street East	Toronto	Ontario	Canada	M4W 3J6	20	(3460) PEROXYDE D'HYDROGÈNE 27 (53) 20L 20 LITRES 	11.09
+Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	Syrine Tahar	317 Broadway	New York	New York	États-Unis	10007	40	(1495) TAMPONS DE FROTTAGE VERT 17 5/CS (20128)	12.97
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Yann Chapdelaine-Roy	428 Grand St	Jersey City	New Jersey	États-Unis	07303	20	(2170) TAMPON PLANCHER FORT BRUN 4.5X10 20/CS OCTO	5.15
+Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	70	(3925) HYBRID FINI À PLANCHER 18.9L 18.9 LITRES 66	3.12
+Gabriel Thiéry	44D Route Du Président-Kennedy	Lévis	Québec	Canada	G6V 6C5	Gabriel Thiéry	44D Route Du Président-Kennedy	Lévis	Québec	Canada	G6V 6C5	90	(4435) GREEN EARTH CLEAR SAVON MOUSSE 6 X 1000ML/C	8.82
+Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	Kawtar Boulhroude	809 6th Ave	Manhattan	New York	États-Unis	10001	50	(3760) DÉSODORISANT MOUSSE À TAPIS AÉROSOL 14 OZ	11.28
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Thomas Donadei	2520 Ch. Des Quatre-Bourgeois	Sainte-Foy	Québec	Canada	G1V 4R2	100	(4495) DISTRIBUTEUR AUTO SAVON MOUSSE BLANC UN 918	4.29
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Yann Chapdelaine-Roy	428 Grand St	Jersey City	New Jersey	États-Unis	07303	90	(2845) BIO-SOUR (55) NEUTRALISANT POUR LESSIVE 20L	9.90
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	50	(2260) TAMPON GRILLE FROIDE 4.5X6 20/BTE	12.77
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Philippe Hanna	640 Rue Sainte-Catherine Ouest	Montréal	Québec	Canada	H3B 1B8	50	(2140) TAMPON VERT MOYEN 6X9 UN NO.90-96 (196F-226	12.91
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	20	(4225) SANIBET MULTI-RANGE 18 ASSAINISSEUR 2L 2 LI	6.37
+Ken Seidenstein	1016 De La Montagne	Montréal	Québec	Canada	H3G 1Y7	Ken Seidenstein	1016 De La Montagne	Montréal	Québec	Canada	H3G 1Y7	70	(4420) PRO R PRÉLAVAGE POUR RÉSIDU MÉTALLIQUE 946M	12.52
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Francis Charette	102 1st Ave.	New York	New York	États-Unis	10003	30	(1810) TAMPONS POLISSAGE BLANC 20 5/CS (14420)	11.64
+Elyse Simard	552 Yonge Street	Toronto	Ontario	Canada	M4Y 1Y8	Elyse Simard	552 Yonge Street	Toronto	Ontario	Canada	M4Y 1Y8	40	(4210) GREEN EARTH 32 ÉTIQUETTE NETTOYEUR POUR SAL	7.05
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Thomas Donadei	2520 Ch. Des Quatre-Bourgeois	Sainte-Foy	Québec	Canada	G1V 4R2	10	(4420) PRO R PRÉLAVAGE POUR RÉSIDU MÉTALLIQUE 946M	12.52
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Francis Charette	102 1st Ave.	New York	New York	États-Unis	10003	30	(3340) NEUTRAL 500 PLUS (12) DÉTERGENT NEUTRE 4L 4	11.92
+Mahsa Nikkami	3475 Boul. Sainte-Anne	Beauport	Québec	Canada	G1E 3L5	Tania Provencher	335 8th Ave	Manhattan	New York	États-Unis	10001	20	(1960) TAMPONS LUSTRAGE ROUGE 11 5/CS (20044)	8.48
+Sébastien Lourties	395 Flatbush Ave Exten	Brooklyn	New York	États-Unis	11201	Mayssa Mahmoud	1 Rue Notre-Dame Ouest	Montréal	Québec	Canada	H2Y 1S5	30	(3145) CYCLONE (52) DÉTERGENT POUR LESSIVE 4L 4 LI	9.11
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Gautier Lebastard	344 Bathurst Street	Toronto	Ontario	Canada	M5T 2S3	90	(3625) TG-800 (9) NETTOYEUR TRAPPE À GRAISSE 20L 2	7.39
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	70	(4195) GREEN EARTH 32 NETTOYEUR POUR SALLE DE BAIN	4.61
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Lucas Larbodière	470 Yonge Street	Toronto	Ontario	Canada	M4Y 1X5	60	(1975) TAMPONS LUSTRAGE ROUGE 12 5/CS (20045)	8.48
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Rakhimé Abdul Kader	2901 Sherbrooke St Est	Montréal	Québec	Canada	H1W 1B2	100	(2650) BA-54 (54) ASSOUPLISSEUR 55L 55 LITRES TS-5	12.11
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	404 E 14th St	New York	New York	États-Unis	10009	40	(3970) EXTREME DÉCAPANT À PLANCHER 3.78L 3.78 LITR	11.09
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Alexandra Haché	675 Yonge Street	Toronto	Ontario	Canada	M4Y 1T2	80	(1660) TAMPONS NETTOYAGE BLEU 20 5/CS (20209)	4.09
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	100	(4135) GREEN EARTH 13 ÉTIQUETTE DÉGRAISSEUR POUR S	11.12
+Kevin Rabah	3026 Rue Notre-Dame Ouest	Montréal	Québec	Canada	H4C 1P1	Kevin Rabah	3026 Rue Notre-Dame Ouest	Montréal	Québec	Canada	H4C 1P1	60	(4165) GREEN EARTH 11 NETTOYEUR AU PEROXIDE 2L 2 L	5.22
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	10	(1765) TAMPONS POLISSAGE BLANC 17 5/CS (14417)	11.64
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	404 E 14th St	New York	New York	États-Unis	10009	70	(4180) GREEN EARTH 11 ÉTIQUETTE POUR NETTOYEUR PER	5.78
+Elyse Simard	552 Yonge Street	Toronto	Ontario	Canada	M4Y 1Y8	Elyse Simard	552 Yonge Street	Toronto	Ontario	Canada	M4Y 1Y8	50	(2995) BOD SAN 2.5 (10) ASSAINISSEUR DÉSINFECTANT 	12.81
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Theo De Coninck	1703 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2J5	20	(2065) TAMPONS LUSTRAGE ROUGE 19 5/CS (20052)	8.48
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Camille Balducchi	1221 King Street West	Toronto	Ontario	Canada	M6K 1G3	70	(4090) GREEN EARTH 19 NETTOYEUR À VITRES 2L 2 LITR	11.17
+Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	Léa Bombart	262 Canal St	New York	New York	États-Unis	10013	20	(1045) EPONGE A RECURER MOYEN 3.5X6.25 20/CS NIAGA	6.30
+Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	Simon Thellend	30 Mall Dr W	Jersey City	New Jersey	États-Unis	07310	30	(4510) DISTRIBUTEUR AUTO SAVON MOUSSE NOIR UN 9196	12.80
+Mahsa Nikkami	3475 Boul. Sainte-Anne	Beauport	Québec	Canada	G1E 3L5	Tania Provencher	335 8th Ave	Manhattan	New York	États-Unis	10001	40	(1975) TAMPONS LUSTRAGE ROUGE 12 5/CS (20045)	8.48
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	404 E 14th St	New York	New York	États-Unis	10009	30	(1120) TAMPON VERT MOYEN 6X9 20/BTE 3M SCOTCH-BRIT	11.54
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Bach Kim Tran	760 Rue Bouvier	Québec	Québec	Canada	G2J 1A3	10	(3460) PEROXYDE D'HYDROGÈNE 27 (53) 20L 20 LITRES 	11.09
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	136 W 3rd St	New York	New York	États-Unis	10012	20	(1645) TAMPONS NETTOYAGE BLEU 19 5/CS (20208)	4.09
+Lia Mansour	5252 Cote Des Neiges	Montréal	Québec	Canada	H3T 1X8	Lia Mansour	710 King Street West	Toronto	Ontario	Canada	M5V 2Y6	100	(1600) TAMPONS NETTOYAGE BLEU 16 5/CS (20205)	4.09
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Thomas Donadei	2520 Ch. Des Quatre-Bourgeois	Sainte-Foy	Québec	Canada	G1V 4R2	70	(4120) GREEN EARTH 13 DÉGRAISSEUR POUR SURFACE DUR	5.51
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	40	(1900) TAMPONS ULTRA HAUTE VITESSE BRUNISSAGE AQUA	6.89
+Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	50	(2080) TAMPONS LUSTRAGE ROUGE 20 5/CS (20053)	8.48
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Lucas Larbodière	470 Yonge Street	Toronto	Ontario	Canada	M4Y 1X5	30	(1420) TAMPONS DE DECAPAGE NOIR 21 5/CS (20015)	10.54
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Theo De Coninck	1703 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2J5	60	(3940) UNTOUCHABLE FINI À PLANCHER SRT 3.78L 3.78 	9.68
+Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	Syrine Tahar	317 Broadway	New York	New York	États-Unis	10007	10	(2275) TAMPON ÉPONGE RÉCURANTE MOYENNE 6.25X3.18 U	11.93
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	160 Spadina Avenue	Toronto	Ontario	Canada	M5T 2C2	30	(4150) PUSH 28 ÉTIQUETTE POUR SOLUTION BIOACTIVE U	11.21
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Pénélope Breugnon	345 Bloor Street East	Toronto	Ontario	Canada	M4W 3J6	70	(2860) BIO-SOUR (55) NEUTRALISANT POUR LESSIVE 55L	10.32
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Gautier Lebastard	344 Bathurst Street	Toronto	Ontario	Canada	M5T 2S3	70	(2605) BIO-3000 PLUS (2) DÉTERGENT POUDRE VAISSELL	11.31
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	40	(2440) KLINGER NETTOYEUR À CUVETTE 4L 4 LITRES	7.57
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Bach Kim Tran	8000 Av. Des Églises	Charny	Québec	Canada	G6X 1X4	80	(3370) NEUTRAL 500 ULTRA (12) DÉTERGENT NEUTRE 4L 	4.51
+Ludovic Desharnais-Gervais	8900 Boul. Henri-Bourassa	Charlesbourg	Québec	Canada	G1G 4O3	Nilssa Destine	541 6th Ave	New York	New York	États-Unis	10011	90	(1450) TAMPONS DE FROTTAGE VERT 13 5/CS (20124)	12.97
+Mahsa Nikkami	3475 Boul. Sainte-Anne	Beauport	Québec	Canada	G1E 3L5	Tania Provencher	335 8th Ave	Manhattan	New York	États-Unis	10001	20	(2125) TAMPON VERT MOYEN 6X9 10/PQT 10/PQT NO.90-9	10.76
+Ludovic Desharnais-Gervais	8900 Boul. Henri-Bourassa	Charlesbourg	Québec	Canada	G1G 4O3	Ludovic Desharnais-Gervais	8900 Boul. Henri-Bourassa	Charlesbourg	Québec	Canada	G1G 4O3	80	(4120) GREEN EARTH 13 DÉGRAISSEUR POUR SURFACE DUR	5.51
+Elyse Simard	552 Yonge Street	Toronto	Ontario	Canada	M4Y 1Y8	Elyse Simard	552 Yonge Street	Toronto	Ontario	Canada	M4Y 1Y8	60	(1810) TAMPONS POLISSAGE BLANC 20 5/CS (14420)	11.64
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Philippe Hanna	640 Rue Sainte-Catherine Ouest	Montréal	Québec	Canada	H3B 1B8	100	(2860) BIO-SOUR (55) NEUTRALISANT POUR LESSIVE 55L	10.32
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Philippe Hanna	640 Rue Sainte-Catherine Ouest	Montréal	Québec	Canada	H3B 1B8	100	(4345) STATION DE DILUTION FASTDRAW PRO 4 ACTION G	6.86
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Theo De Coninck	1703 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2J5	10	(4510) DISTRIBUTEUR AUTO SAVON MOUSSE NOIR UN 9196	12.80
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Francis Charette	26 E 23rd St	New York	New York	États-Unis	10010	60	(4165) GREEN EARTH 11 NETTOYEUR AU PEROXIDE 2L 2 L	5.22
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	80	(1855) TAMPONS PORKO PLUS ULTRA HAUTE VITESSE BRUN	4.27
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Yann Chapdelaine-Roy	428 Grand St	Jersey City	New Jersey	États-Unis	07303	70	(2500) AR2000 (1) ADDITIF DE RINÇAGE VAISSELLE 4L 	10.83
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Alexandru Dan Craciun	590 Boul. Wilfrid-Hamel	Québec	Québec	Canada	G1M 2T3	70	(1105) TAMPON À CHAUDRON 3.5X5 20/CS NIAGARA	7.81
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Chanel Larivière	167 Chambers St	New York	New York	États-Unis	10013	10	(3355) NEUTRAL 500 PLUS (12) DÉTERGENT NEUTRE 20L 	5.00
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Yann Chapdelaine-Roy	428 Grand St	Jersey City	New Jersey	États-Unis	07303	20	(4585) L-S-R DELIMER AGENT DE DÉTARTRAGE 3.78L 3.7	7.20
+Lia Mansour	5252 Cote Des Neiges	Montréal	Québec	Canada	H3T 1X8	Philippe Marion	1692 Rue Mont Royal	Montréal	Québec	Canada	H2J 1Z5	100	(1555) TAMPONS NETTOYAGE BLEU 13 5/CS (20202)	4.09
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	404 E 14th St	New York	New York	États-Unis	10009	60	(3895) HARD AS NAILS FINI À PLANCHER 18.9L 18.9 LI	12.52
+Elyse Simard	552 Yonge Street	Toronto	Ontario	Canada	M4Y 1Y8	Elyse Simard	552 Yonge Street	Toronto	Ontario	Canada	M4Y 1Y8	90	(3565) SC1000 PLUS X (2) DÉTERGENT LAVE-VAISSELLE 	10.57
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Antoine Coucke	160 Broadway	New York	New York	États-Unis	10038	60	(2875) BIO-TECH (O) NEUTRALISANT D'ODEUR 1L 1 LITR	3.02
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	10	(1180) BICARBONATE DE SODIUM LB LB	11.05
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Francis Charette	26 E 23rd St	New York	New York	États-Unis	10010	60	(3040) CHEF 6000 (8) NETTOYEUR À PLAQUE 4L 4 LITRE	8.01
+Elyse Simard	552 Yonge Street	Toronto	Ontario	Canada	M4Y 1Y8	Elyse Simard	552 Yonge Street	Toronto	Ontario	Canada	M4Y 1Y8	60	(3235) DP-3000 PLUS (2) DÉTERGENT POUDRE LAVE-VAIS	12.39
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Pénélope Breugnon	345 Bloor Street East	Toronto	Ontario	Canada	M4W 3J6	40	(2860) BIO-SOUR (55) NEUTRALISANT POUR LESSIVE 55L	10.32
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	60	(1885) TAMPONS ULTRA HAUTE VITESSE BRUNISSAGE AQUA	6.71
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Antoine Coucke	160 Broadway	New York	New York	États-Unis	10038	40	(2125) TAMPON VERT MOYEN 6X9 10/PQT 10/PQT NO.90-9	10.76
+Elyse Simard	552 Yonge Street	Toronto	Ontario	Canada	M4Y 1Y8	Grégoire Tabouis	267 Broadway	Brooklyn	New York	États-Unis	11211	60	(3175) CYCLONE HE (52) DÉTERGENT POUR LESSIVE HE 4	12.35
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Yann Chapdelaine-Roy	428 Grand St	Jersey City	New Jersey	États-Unis	07303	40	(1780) TAMPONS POLISSAGE BLANC 18 5/CS (14418)	11.64
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Francis Charette	26 E 23rd St	New York	New York	États-Unis	10010	90	(4195) GREEN EARTH 32 NETTOYEUR POUR SALLE DE BAIN	4.61
+Lia Mansour	5252 Cote Des Neiges	Montréal	Québec	Canada	H3T 1X8	Lia Mansour	710 King Street West	Toronto	Ontario	Canada	M5V 2Y6	20	(2635) BA-54 (54) ASSOUPLISSEUR 20L 20 LITRES TS-5	5.29
+Kevin Rabah	3026 Rue Notre-Dame Ouest	Montréal	Québec	Canada	H4C 1P1	Louis Radamelle	3481 Rue Clémenceau	Beauport	Québec	Canada	G1C 0H8	30	(2035) TAMPONS LUSTRAGE ROUGE 17 5/CS (20050)	8.48
+Sébastien Lourties	395 Flatbush Ave Exten	Brooklyn	New York	États-Unis	11201	Sébastien Lourties	395 Flatbush Ave Exten	Brooklyn	New York	États-Unis	11201	80	(1405) TAMPONS DE DECAPAGE NOIR 20 5/CS (20014)	10.54
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Yann Chapdelaine-Roy	428 Grand St	Jersey City	New Jersey	États-Unis	07303	80	(1480) TAMPONS DE FROTTAGE VERT 15 5/CS (20126)	12.97
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	215 Rue Peel	Montréal	Québec	Canada	H3C 2G6	30	(3805) CONTRÔLE D'ODEUR NEW CAR SCENT EN AÉROSOL 5	4.20
+Elyse Simard	552 Yonge Street	Toronto	Ontario	Canada	M4Y 1Y8	Elyse Simard	552 Yonge Street	Toronto	Ontario	Canada	M4Y 1Y8	80	(2395) CHIC DÉSODORISANT POUDRE À TAPIS 1000GR 100	10.55
+Lia Mansour	5252 Cote Des Neiges	Montréal	Québec	Canada	H3T 1X8	Lia Mansour	710 King Street West	Toronto	Ontario	Canada	M5V 2Y6	90	(2245) PORTE-TAMPON O-202 AVEC 3 TAMPONS 4.5X10 UN	8.51
+Mahsa Nikkami	3475 Boul. Sainte-Anne	Beauport	Québec	Canada	G1E 3L5	Mahsa Nikkami	52 Fulton St	New York	New York	États-Unis	10038	40	(1945) TAMPONS PORKO EXTREME ULTRA HAUTE VITESSE B	3.29
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Bach Kim Tran	8000 Av. Des Églises	Charny	Québec	Canada	G6X 1X4	50	(3190) CYCLONE HE (52) DÉTERGENT POUR LESSIVE HE 2	8.13
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Francis Charette	2950 Boul. Laurier	Sainte-Foy	Québec	Canada	G1V 2M4	10	(1075) TAMPON VERT ULTRA ROBUSTE 6X9 12/BTE 3M SCO	7.81
+Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	Kawtar Boulhroude	809 6th Ave	Manhattan	New York	États-Unis	10001	50	(4300) TOP FLITE 3 NETTOYEUR TOUT-USAGE 2L 2 LITRE	4.60
+Ludovic Desharnais-Gervais	8900 Boul. Henri-Bourassa	Charlesbourg	Québec	Canada	G1G 4O3	Nilssa Destine	541 6th Ave	New York	New York	États-Unis	10011	40	(3235) DP-3000 PLUS (2) DÉTERGENT POUDRE LAVE-VAIS	12.39
+Alice Menez	127 Church Street	Toronto	Ontario	Canada	M5C 2G5	Alice Menez	127 Church Street	Toronto	Ontario	Canada	M5C 2G5	90	(4420) PRO R PRÉLAVAGE POUR RÉSIDU MÉTALLIQUE 946M	12.52
+Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	Kawtar Boulhroude	809 6th Ave	Manhattan	New York	États-Unis	10001	50	(3760) DÉSODORISANT MOUSSE À TAPIS AÉROSOL 14 OZ	11.28
+Kevin Rabah	3026 Rue Notre-Dame Ouest	Montréal	Québec	Canada	H4C 1P1	Louis Radamelle	3481 Rue Clémenceau	Beauport	Québec	Canada	G1C 0H8	30	(3475) RINCE PM NO.10 (1) AGENT DE RINÇAGE LAVE-VA	12.31
+Kevin Rabah	3026 Rue Notre-Dame Ouest	Montréal	Québec	Canada	H4C 1P1	Kevin Rabah	3026 Rue Notre-Dame Ouest	Montréal	Québec	Canada	H4C 1P1	60	(3700) D-8500 (11) BOUTEILLE VIDE 710ML UN TS-9950	5.13
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	1825 Route Des Rivières	Lévis	Québec	Canada	G7A 1C8	100	(4030) CITRUS CHISEL 10 ÉTIQUETTE POUR DÉGRAISSEUR	9.34
+Ken Seidenstein	1016 De La Montagne	Montréal	Québec	Canada	H3G 1Y7	Ken Seidenstein	1016 De La Montagne	Montréal	Québec	Canada	H3G 1Y7	40	(3580) SC1000 PLUS X (2) DÉTERGENT LAVE-VAISSELLE 	12.95
+Mahsa Nikkami	3475 Boul. Sainte-Anne	Beauport	Québec	Canada	G1E 3L5	Mahsa Nikkami	52 Fulton St	New York	New York	États-Unis	10038	40	(1465) TAMPONS DE FROTTAGE VERT 14 5/CS (20125)	12.97
+Ludovic Desharnais-Gervais	8900 Boul. Henri-Bourassa	Charlesbourg	Québec	Canada	G1G 4O3	Ludovic Desharnais-Gervais	8900 Boul. Henri-Bourassa	Charlesbourg	Québec	Canada	G1G 4O3	40	(3985) EXTREME DÉCAPANT À PLANCHER 18.9L 18.9 LITR	7.83
+Mahsa Nikkami	3475 Boul. Sainte-Anne	Beauport	Québec	Canada	G1E 3L5	Mahsa Nikkami	52 Fulton St	New York	New York	États-Unis	10038	90	(1030) TAMPON GRILLE FROIDE 4X5.25 20/BTE 3M SCOTC	11.54
+Mahsa Nikkami	3475 Boul. Sainte-Anne	Beauport	Québec	Canada	G1E 3L5	Mahsa Nikkami	3475 Boul. Sainte-Anne	Beauport	Québec	Canada	G1E 3L5	70	(1270) SERVIETTE HUMIDE 4''X7'' 1000/CS 1000/CS	7.72
+Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	Léa Bombart	262 Canal St	New York	New York	États-Unis	10013	80	(3220) DP-3000 (2) DÉTERGENT POUDRE LAVE-VAISSELLE	12.99
+Lia Mansour	5252 Cote Des Neiges	Montréal	Québec	Canada	H3T 1X8	Philippe Marion	1692 Rue Mont Royal	Montréal	Québec	Canada	H2J 1Z5	10	(2800) BD-3 (3) ASSAINISSEUR VAISSELLE 6 4L 4 LITR	11.87
+Ludovic Desharnais-Gervais	8900 Boul. Henri-Bourassa	Charlesbourg	Québec	Canada	G1G 4O3	Nilssa Destine	541 6th Ave	New York	New York	États-Unis	10011	40	(3715) NEUTRAL 500 PLUS (12) BOUTEILLE VIDE 710ML 	8.07
+Elyse Simard	552 Yonge Street	Toronto	Ontario	Canada	M4Y 1Y8	Grégoire Tabouis	267 Broadway	Brooklyn	New York	États-Unis	11211	50	(2785) BIO DETACHANT (3) ASSAINISSEUR VAISSELLE 20	7.03
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Camille Balducchi	1221 King Street West	Toronto	Ontario	Canada	M6K 1G3	70	(1150) TAMPON BLANC LÉGER 6X9 20/BTE 3M SCOTCH-BRI	8.60
+Abde-Nnour Rahmouni	885 Bloor St West	Toronto	Ontario	Canada	M6G 1M4	Abde-Nnour Rahmouni	885 Bloor St West	Toronto	Ontario	Canada	M6G 1M4	70	(1960) TAMPONS LUSTRAGE ROUGE 11 5/CS (20044)	8.48
+Alice Menez	127 Church Street	Toronto	Ontario	Canada	M5C 2G5	Alice Menez	127 Church Street	Toronto	Ontario	Canada	M5C 2G5	20	(4345) STATION DE DILUTION FASTDRAW PRO 4 ACTION G	6.86
+Ludovic Desharnais-Gervais	8900 Boul. Henri-Bourassa	Charlesbourg	Québec	Canada	G1G 4O3	Nilssa Destine	541 6th Ave	New York	New York	États-Unis	10011	70	(3415) NTU-230 ECO (23) NETTOYEUR TOUT-USAGE 4L 4 	4.12
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	70	(1705) TAMPONS POLISSAGE BLANC 13 5/CS (14413)	11.64
+Sébastien Lourties	395 Flatbush Ave Exten	Brooklyn	New York	États-Unis	11201	Sébastien Lourties	395 Flatbush Ave Exten	Brooklyn	New York	États-Unis	11201	40	(3520) SC1000 (2) DÉTERGENT LAVE-VAISSELLE 20L 20 	5.84
+Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	60	(1825) TAMPONS POLISSAGE BLANC 21 5/CS (14421)	11.64
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Yann Chapdelaine-Roy	428 Grand St	Jersey City	New Jersey	États-Unis	07303	10	(3760) DÉSODORISANT MOUSSE À TAPIS AÉROSOL 14 OZ	11.28
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Francis Charette	2950 Boul. Laurier	Sainte-Foy	Québec	Canada	G1V 2M4	90	(2695) BD-53 (53) BUANDERIE 4L 4 LITRES TS-530044 	6.62
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Alexandra Haché	675 Yonge Street	Toronto	Ontario	Canada	M4Y 1T2	100	(3340) NEUTRAL 500 PLUS (12) DÉTERGENT NEUTRE 4L 4	11.92
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	160 Spadina Avenue	Toronto	Ontario	Canada	M5T 2C2	50	(2575) BIO-CRYSTAL (14) NETTOYEUR EN CRÈME AVEC AB	11.79
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Alexandra Haché	675 Yonge Street	Toronto	Ontario	Canada	M4Y 1T2	50	(2230) PORTE-TAMPON O-200T AVEC 3 TAMPONS 4.5X10 U	4.26
+Mahsa Nikkami	3475 Boul. Sainte-Anne	Beauport	Québec	Canada	G1E 3L5	Tania Provencher	335 8th Ave	Manhattan	New York	États-Unis	10001	20	(4075) GREEN EARTH 20 NETTOYEUR À PLANCHER QUOTIDI	5.46
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Yann Chapdelaine-Roy	428 Grand St	Jersey City	New Jersey	États-Unis	07303	40	(2830) BIO-PLAQUE (8) NETTOYEUR À PLAQUE 4L 4 LITR	10.41
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Lucas Larbodière	470 Yonge Street	Toronto	Ontario	Canada	M4Y 1X5	80	(4450) SAVON MOUSSE ANTIBACTÉRIEN 6 X 1000ML/CS 75	7.36
+Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	Léa Bombart	262 Canal St	New York	New York	États-Unis	10013	70	(2230) PORTE-TAMPON O-200T AVEC 3 TAMPONS 4.5X10 U	4.26
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Alexandra Haché	675 Yonge Street	Toronto	Ontario	Canada	M4Y 1T2	60	(4360) SYSTÈME DE DILUTION FREEDOM FASTDRAW UN FAS	8.08
+Kevin Rabah	3026 Rue Notre-Dame Ouest	Montréal	Québec	Canada	H4C 1P1	Kevin Rabah	3026 Rue Notre-Dame Ouest	Montréal	Québec	Canada	H4C 1P1	10	(2515) AR2000 (1) ADDITIF DE RINÇAGE VAISSELLE 20L	6.02
+Elyse Simard	552 Yonge Street	Toronto	Ontario	Canada	M4Y 1Y8	Elyse Simard	552 Yonge Street	Toronto	Ontario	Canada	M4Y 1Y8	30	(1600) TAMPONS NETTOYAGE BLEU 16 5/CS (20205)	4.09
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Thomas Donadei	2520 Ch. Des Quatre-Bourgeois	Sainte-Foy	Québec	Canada	G1V 4R2	10	(3190) CYCLONE HE (52) DÉTERGENT POUR LESSIVE HE 2	8.13
+Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	Syrine Tahar	317 Broadway	New York	New York	États-Unis	10007	70	(2380) BAN-O DÉSODORISANT 3.64L 3.64 LITRES	7.49
+Gabriel Thiéry	44D Route Du Président-Kennedy	Lévis	Québec	Canada	G6V 6C5	Gabriel Thiéry	44D Route Du Président-Kennedy	Lévis	Québec	Canada	G6V 6C5	80	(2455) TORPEDO DÉBOUCHEUR POUR DRAIN 909ML 909 ML	7.06
+Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	10	(1435) TAMPONS DE DECAPAGE BRUN 18 5/CS (20245)	10.54
+Abde-Nnour Rahmouni	885 Bloor St West	Toronto	Ontario	Canada	M6G 1M4	Abde-Nnour Rahmouni	885 Bloor St West	Toronto	Ontario	Canada	M6G 1M4	80	(4555) RINSE AID 315 ADDITIF RINCE LAVE-VAISSELLE 	4.66
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Yann Chapdelaine-Roy	428 Grand St	Jersey City	New Jersey	États-Unis	07303	10	(2515) AR2000 (1) ADDITIF DE RINÇAGE VAISSELLE 20L	6.02
+Mahsa Nikkami	3475 Boul. Sainte-Anne	Beauport	Québec	Canada	G1E 3L5	Mahsa Nikkami	52 Fulton St	New York	New York	États-Unis	10038	40	(2935) BV-5 (5) DÉTERGENT POUR CHAUDRON 20L 20 LIT	3.22
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Derrick Celestin	356 Yonge Street	Toronto	Ontario	Canada	M5B 1S5	60	(2725) BD-53 (53) BUANDERIE 55L 55 LITRES TS-53005	6.96
+Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	Syrine Tahar	317 Broadway	New York	New York	États-Unis	10007	60	(3145) CYCLONE (52) DÉTERGENT POUR LESSIVE 4L 4 LI	9.11
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Alexandra Haché	675 Yonge Street	Toronto	Ontario	Canada	M4Y 1T2	70	(3055) CHEF 6000 PLUS (28) NETTOYEUR EN GEL POUR P	11.52
+Alice Menez	127 Church Street	Toronto	Ontario	Canada	M5C 2G5	Alice Menez	127 Church Street	Toronto	Ontario	Canada	M5C 2G5	70	(2260) TAMPON GRILLE FROIDE 4.5X6 20/BTE	12.77
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Bach Kim Tran	8000 Av. Des Églises	Charny	Québec	Canada	G6X 1X4	50	(2965) BOD CARE NETTOYEUR ACIDE DÉTARTRANT POUR FO	8.06
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	1825 Route Des Rivières	Lévis	Québec	Canada	G7A 1C8	20	(3415) NTU-230 ECO (23) NETTOYEUR TOUT-USAGE 4L 4 	4.12
+Abde-Nnour Rahmouni	885 Bloor St West	Toronto	Ontario	Canada	M6G 1M4	Abde-Nnour Rahmouni	885 Bloor St West	Toronto	Ontario	Canada	M6G 1M4	100	(2515) AR2000 (1) ADDITIF DE RINÇAGE VAISSELLE 20L	6.02
+Ken Seidenstein	1016 De La Montagne	Montréal	Québec	Canada	H3G 1Y7	Ken Seidenstein	1016 De La Montagne	Montréal	Québec	Canada	H3G 1Y7	50	(1900) TAMPONS ULTRA HAUTE VITESSE BRUNISSAGE AQUA	6.89
+Mahsa Nikkami	3475 Boul. Sainte-Anne	Beauport	Québec	Canada	G1E 3L5	Mahsa Nikkami	52 Fulton St	New York	New York	États-Unis	10038	30	(1315) TAMPONS DE DECAPAGE NOIR 13 5/CS (20007)	10.54
+Sébastien Lourties	395 Flatbush Ave Exten	Brooklyn	New York	États-Unis	11201	Sébastien Lourties	395 Flatbush Ave Exten	Brooklyn	New York	États-Unis	11201	60	(3025) BOD SAN RTU (10) ASSAINISSEUR DÉSINFECTANT 	6.68
+Lia Mansour	5252 Cote Des Neiges	Montréal	Québec	Canada	H3T 1X8	Lia Mansour	5252 Cote Des Neiges	Montréal	Québec	Canada	H3T 1X8	90	(1480) TAMPONS DE FROTTAGE VERT 15 5/CS (20126)	12.97
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	90	(3220) DP-3000 (2) DÉTERGENT POUDRE LAVE-VAISSELLE	12.99
+Mahsa Nikkami	3475 Boul. Sainte-Anne	Beauport	Québec	Canada	G1E 3L5	Mahsa Nikkami	52 Fulton St	New York	New York	États-Unis	10038	80	(1495) TAMPONS DE FROTTAGE VERT 17 5/CS (20128)	12.97
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Rakhimé Abdul Kader	234 Washington St	Hoboken	New Jersey	États-Unis	07030	30	(4210) GREEN EARTH 32 ÉTIQUETTE NETTOYEUR POUR SAL	7.05
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	160 Spadina Avenue	Toronto	Ontario	Canada	M5T 2C2	10	(1045) EPONGE A RECURER MOYEN 3.5X6.25 20/CS NIAGA	6.30
+Elyse Simard	552 Yonge Street	Toronto	Ontario	Canada	M4Y 1Y8	Grégoire Tabouis	267 Broadway	Brooklyn	New York	États-Unis	11211	20	(1090) TAMPON À CHAUDRON 3.5X5 10/BTE 3M SCOTCH-BR	6.35
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Derrick Celestin	356 Yonge Street	Toronto	Ontario	Canada	M5B 1S5	70	(4075) GREEN EARTH 20 NETTOYEUR À PLANCHER QUOTIDI	5.46
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	90	(2350) MULTI ACTION 5 DÉSINFECTANT 4L 4 LITRES	5.61
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	404 E 14th St	New York	New York	États-Unis	10009	80	(1105) TAMPON À CHAUDRON 3.5X5 20/CS NIAGARA	7.81
+Lia Mansour	5252 Cote Des Neiges	Montréal	Québec	Canada	H3T 1X8	Philippe Marion	1692 Rue Mont Royal	Montréal	Québec	Canada	H2J 1Z5	20	(3745) VAPORISATEUR BEC MOUSSEUR UN TS-9950120	4.35
+Gabriel Thiéry	44D Route Du Président-Kennedy	Lévis	Québec	Canada	G6V 6C5	Gabriel Thiéry	44D Route Du Président-Kennedy	Lévis	Québec	Canada	G6V 6C5	90	(4225) SANIBET MULTI-RANGE 18 ASSAINISSEUR 2L 2 LI	6.37
+Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	60	(2650) BA-54 (54) ASSOUPLISSEUR 55L 55 LITRES TS-5	12.11
+Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	Syrine Tahar	317 Broadway	New York	New York	États-Unis	10007	40	(3865) GLARE FINI À PLANCHER 18.9L 18.9 LITRES 605	4.54
+Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	Simon Thellend	30 Mall Dr W	Jersey City	New Jersey	États-Unis	07310	20	(1750) TAMPONS POLISSAGE BLANC 16 5/CS (14416)	11.64
+Mahsa Nikkami	3475 Boul. Sainte-Anne	Beauport	Québec	Canada	G1E 3L5	Tania Provencher	335 8th Ave	Manhattan	New York	États-Unis	10001	70	(3295) JRL ULTRA (56) ÉMULSIFIANT POUR LESSIVE 20L	9.43
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	160 Spadina Avenue	Toronto	Ontario	Canada	M5T 2C2	80	(4390) RACK POUR PRODUIT DE DILUTION FASTDRAW UN F	11.77
+Elyse Simard	552 Yonge Street	Toronto	Ontario	Canada	M4Y 1Y8	Grégoire Tabouis	267 Broadway	Brooklyn	New York	États-Unis	11211	20	(3340) NEUTRAL 500 PLUS (12) DÉTERGENT NEUTRE 4L 4	11.92
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Lucas Larbodière	470 Yonge Street	Toronto	Ontario	Canada	M4Y 1X5	20	(1210) LAINE D'ACIER KK ARGENT GROS 35GR DOUZAINE	6.12
+Kevin Rabah	3026 Rue Notre-Dame Ouest	Montréal	Québec	Canada	H4C 1P1	Kevin Rabah	3026 Rue Notre-Dame Ouest	Montréal	Québec	Canada	H4C 1P1	80	(1225) TAMPON HDS PERFORMANCE 40/CS KLEIN 20080	9.05
+Kevin Rabah	3026 Rue Notre-Dame Ouest	Montréal	Québec	Canada	H4C 1P1	Louis Radamelle	3481 Rue Clémenceau	Beauport	Québec	Canada	G1C 0H8	80	(4585) L-S-R DELIMER AGENT DE DÉTARTRAGE 3.78L 3.7	7.20
+Alice Menez	127 Church Street	Toronto	Ontario	Canada	M5C 2G5	Alice Menez	127 Church Street	Toronto	Ontario	Canada	M5C 2G5	50	(1945) TAMPONS PORKO EXTREME ULTRA HAUTE VITESSE B	3.29
+Kevin Rabah	3026 Rue Notre-Dame Ouest	Montréal	Québec	Canada	H4C 1P1	Kevin Rabah	3026 Rue Notre-Dame Ouest	Montréal	Québec	Canada	H4C 1P1	100	(3025) BOD SAN RTU (10) ASSAINISSEUR DÉSINFECTANT 	6.68
+Abde-Nnour Rahmouni	885 Bloor St West	Toronto	Ontario	Canada	M6G 1M4	Abde-Nnour Rahmouni	885 Bloor St West	Toronto	Ontario	Canada	M6G 1M4	70	(4330) STATION DE DILUTION FASTDRAW 1 ACTION GAP U	10.83
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Francis Charette	2950 Boul. Laurier	Sainte-Foy	Québec	Canada	G1V 2M4	50	(1195) LAINE D'ACIER EXTRAFINE BULLDOG NO.000 160/	12.82
+Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	70	(2290) PIERRE GRILLE & PLAQUE 8X4 UN	12.92
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Yann Chapdelaine-Roy	428 Grand St	Jersey City	New Jersey	États-Unis	07303	60	(1615) TAMPONS NETTOYAGE BLEU 17 5/CS (20206)	4.09
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	160 Spadina Avenue	Toronto	Ontario	Canada	M5T 2C2	30	(2485) AF-160 (16) PURIFICATEUR D'AIR FRUITÉ 4L 4 	9.05
+Sébastien Lourties	395 Flatbush Ave Exten	Brooklyn	New York	États-Unis	11201	Sébastien Lourties	395 Flatbush Ave Exten	Brooklyn	New York	États-Unis	11201	30	(3610) SC3000 (2) DÉTERGENT À VAISSELLE 20L 20 LIT	9.31
+Elyse Simard	552 Yonge Street	Toronto	Ontario	Canada	M4Y 1Y8	Grégoire Tabouis	267 Broadway	Brooklyn	New York	États-Unis	11211	100	(4000) SPOT BET DÉTACHANT POUR TAPIS 946ML 946 ML 	4.10
+Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	Syrine Tahar	317 Broadway	New York	New York	États-Unis	10007	40	(4345) STATION DE DILUTION FASTDRAW PRO 4 ACTION G	6.86
+Kevin Rabah	3026 Rue Notre-Dame Ouest	Montréal	Québec	Canada	H4C 1P1	Kevin Rabah	3026 Rue Notre-Dame Ouest	Montréal	Québec	Canada	H4C 1P1	20	(1405) TAMPONS DE DECAPAGE NOIR 20 5/CS (20014)	10.54
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Gautier Lebastard	344 Bathurst Street	Toronto	Ontario	Canada	M5T 2S3	70	(4030) CITRUS CHISEL 10 ÉTIQUETTE POUR DÉGRAISSEUR	9.34
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Alexandru Dan Craciun	590 Boul. Wilfrid-Hamel	Québec	Québec	Canada	G1M 2T3	90	(3010) BOD SAN 2.5 (10) ASSAINISSEUR DÉSINFECTANT 	11.00
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	30	(1540) TAMPONS DE FROTTAGE VERT 20 5/CS (20131)	12.97
+Abde-Nnour Rahmouni	885 Bloor St West	Toronto	Ontario	Canada	M6G 1M4	Abde-Nnour Rahmouni	885 Bloor St West	Toronto	Ontario	Canada	M6G 1M4	40	(3025) BOD SAN RTU (10) ASSAINISSEUR DÉSINFECTANT 	6.68
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Marine Avedissian	6565 Boul. Wilfrid-Hamel	L'Ancienne-Lorette	Québec	Canada	G2E 5W3	60	(2845) BIO-SOUR (55) NEUTRALISANT POUR LESSIVE 20L	9.90
+Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	80	(3370) NEUTRAL 500 ULTRA (12) DÉTERGENT NEUTRE 4L 	4.51
+Ludovic Desharnais-Gervais	8900 Boul. Henri-Bourassa	Charlesbourg	Québec	Canada	G1G 4O3	Ludovic Desharnais-Gervais	8900 Boul. Henri-Bourassa	Charlesbourg	Québec	Canada	G1G 4O3	20	(2515) AR2000 (1) ADDITIF DE RINÇAGE VAISSELLE 20L	6.02
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Lucas Larbodière	470 Yonge Street	Toronto	Ontario	Canada	M4Y 1X5	80	(3190) CYCLONE HE (52) DÉTERGENT POUR LESSIVE HE 2	8.13
+Lia Mansour	5252 Cote Des Neiges	Montréal	Québec	Canada	H3T 1X8	Lia Mansour	5252 Cote Des Neiges	Montréal	Québec	Canada	H3T 1X8	80	(3955) UNTOUCHABLE FINI À PLANCHER SRT 18.9L 18.9 	10.28
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Thomas Donadei	2520 Ch. Des Quatre-Bourgeois	Sainte-Foy	Québec	Canada	G1V 4R2	70	(1765) TAMPONS POLISSAGE BLANC 17 5/CS (14417)	11.64
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Bach Kim Tran	760 Rue Bouvier	Québec	Québec	Canada	G2J 1A3	80	(1210) LAINE D'ACIER KK ARGENT GROS 35GR DOUZAINE	6.12
+Sébastien Lourties	395 Flatbush Ave Exten	Brooklyn	New York	États-Unis	11201	Sébastien Lourties	395 Flatbush Ave Exten	Brooklyn	New York	États-Unis	11201	20	(3475) RINCE PM NO.10 (1) AGENT DE RINÇAGE LAVE-VA	12.31
+Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	Simon Thellend	30 Mall Dr W	Jersey City	New Jersey	États-Unis	07310	20	(1090) TAMPON À CHAUDRON 3.5X5 10/BTE 3M SCOTCH-BR	6.35
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	100	(2350) MULTI ACTION 5 DÉSINFECTANT 4L 4 LITRES	5.61
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Toni Wehbeh	197 12th St	Jersey City	New Jersey	États-Unis	07310	60	(2005) TAMPONS LUSTRAGE ROUGE 14 5/CS (20047)	8.48
+Sébastien Lourties	395 Flatbush Ave Exten	Brooklyn	New York	États-Unis	11201	Mayssa Mahmoud	1 Rue Notre-Dame Ouest	Montréal	Québec	Canada	H2Y 1S5	40	(2770) BIO DETACHANT (3) ASSAINISSEUR VAISSELLE 4L	11.11
+Elyse Simard	552 Yonge Street	Toronto	Ontario	Canada	M4Y 1Y8	Grégoire Tabouis	267 Broadway	Brooklyn	New York	États-Unis	11211	10	(1705) TAMPONS POLISSAGE BLANC 13 5/CS (14413)	11.64
+Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	100	(1915) TAMPONS ULTRA HAUTE VITESSE BRUNISSAGE AQUA	3.10
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Lucas Larbodière	470 Yonge Street	Toronto	Ontario	Canada	M4Y 1X5	70	(2875) BIO-TECH (O) NEUTRALISANT D'ODEUR 1L 1 LITR	3.02
+Abde-Nnour Rahmouni	885 Bloor St West	Toronto	Ontario	Canada	M6G 1M4	Abde-Nnour Rahmouni	885 Bloor St West	Toronto	Ontario	Canada	M6G 1M4	80	(1615) TAMPONS NETTOYAGE BLEU 17 5/CS (20206)	4.09
+Elyse Simard	552 Yonge Street	Toronto	Ontario	Canada	M4Y 1Y8	Elyse Simard	552 Yonge Street	Toronto	Ontario	Canada	M4Y 1Y8	100	(1030) TAMPON GRILLE FROIDE 4X5.25 20/BTE 3M SCOTC	11.54
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Bach Kim Tran	8000 Av. Des Églises	Charny	Québec	Canada	G6X 1X4	30	(2635) BA-54 (54) ASSOUPLISSEUR 20L 20 LITRES TS-5	5.29
+Mahsa Nikkami	3475 Boul. Sainte-Anne	Beauport	Québec	Canada	G1E 3L5	Tania Provencher	335 8th Ave	Manhattan	New York	États-Unis	10001	60	(3385) NEUTRA-QUAT (31) NETTOYEUR DÉSINFECTANT 4L 	6.82
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Antoine Coucke	160 Broadway	New York	New York	États-Unis	10038	90	(3805) CONTRÔLE D'ODEUR NEW CAR SCENT EN AÉROSOL 5	4.20
+Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	Syrine Tahar	317 Broadway	New York	New York	États-Unis	10007	30	(3760) DÉSODORISANT MOUSSE À TAPIS AÉROSOL 14 OZ	11.28
+Ludovic Desharnais-Gervais	8900 Boul. Henri-Bourassa	Charlesbourg	Québec	Canada	G1G 4O3	Nilssa Destine	541 6th Ave	New York	New York	États-Unis	10011	20	(2245) PORTE-TAMPON O-202 AVEC 3 TAMPONS 4.5X10 UN	8.51
+Sébastien Lourties	395 Flatbush Ave Exten	Brooklyn	New York	États-Unis	11201	Sébastien Lourties	395 Flatbush Ave Exten	Brooklyn	New York	États-Unis	11201	60	(2785) BIO DETACHANT (3) ASSAINISSEUR VAISSELLE 20	7.03
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	1825 Route Des Rivières	Lévis	Québec	Canada	G7A 1C8	80	(1165) TAMPON À DÉCAPER À HAUT RENDEMENT NOIR 19 U	11.54
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Toni Wehbeh	197 12th St	Jersey City	New Jersey	États-Unis	07310	90	(1585) TAMPONS NETTOYAGE BLEU 15 5/CS (20204)	4.09
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Camille Balducchi	1221 King Street West	Toronto	Ontario	Canada	M6K 1G3	60	(3505) SC1000 (2) DÉTERGENT LAVE-VAISSELLE 4L 4 LI	11.30
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Thomas Donadei	2010 Av. Papineau	Montréal	Québec	Canada	H2K 4J4	100	(2200) TAMPON PLANCHER MOYEN BLEU 4.5X10 20/CS OCT	9.40
+Sébastien Lourties	395 Flatbush Ave Exten	Brooklyn	New York	États-Unis	11201	Sébastien Lourties	395 Flatbush Ave Exten	Brooklyn	New York	États-Unis	11201	20	(1720) TAMPONS POLISSAGE BLANC 14 5/CS (14414)	11.64
+Lia Mansour	5252 Cote Des Neiges	Montréal	Québec	Canada	H3T 1X8	Lia Mansour	5252 Cote Des Neiges	Montréal	Québec	Canada	H3T 1X8	40	(2125) TAMPON VERT MOYEN 6X9 10/PQT 10/PQT NO.90-9	10.76
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	50	(4045) DÉSINFECTANT À USAGE QUOTIDIEN SC 4 2L 2 LI	9.21
+Mahsa Nikkami	3475 Boul. Sainte-Anne	Beauport	Québec	Canada	G1E 3L5	Mahsa Nikkami	52 Fulton St	New York	New York	États-Unis	10038	40	(1885) TAMPONS ULTRA HAUTE VITESSE BRUNISSAGE AQUA	6.71
+Ludovic Desharnais-Gervais	8900 Boul. Henri-Bourassa	Charlesbourg	Québec	Canada	G1G 4O3	Nilssa Destine	541 6th Ave	New York	New York	États-Unis	10011	100	(4060) ÉTIQUETTE DÉSINFECTANT À USAGE QUOTIDIEN SC	7.90
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	136 W 3rd St	New York	New York	États-Unis	10012	30	(2350) MULTI ACTION 5 DÉSINFECTANT 4L 4 LITRES	5.61
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Antoine Coucke	160 Broadway	New York	New York	États-Unis	10038	70	(2050) TAMPONS LUSTRAGE ROUGE 18 5/CS (20051)	8.48
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Gautier Lebastard	344 Bathurst Street	Toronto	Ontario	Canada	M5T 2S3	10	(3040) CHEF 6000 (8) NETTOYEUR À PLAQUE 4L 4 LITRE	8.01
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Rakhimé Abdul Kader	2901 Sherbrooke St Est	Montréal	Québec	Canada	H1W 1B2	60	(4345) STATION DE DILUTION FASTDRAW PRO 4 ACTION G	6.86
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	136 W 3rd St	New York	New York	États-Unis	10012	50	(4015) CITRUS CHISEL 10 DÉGRAISSEUR AUX AGRUMES 2L	10.41
+Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	Kawtar Boulhroude	809 6th Ave	Manhattan	New York	États-Unis	10001	60	(1810) TAMPONS POLISSAGE BLANC 20 5/CS (14420)	11.64
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Philippe Hanna	640 Rue Sainte-Catherine Ouest	Montréal	Québec	Canada	H3B 1B8	90	(2035) TAMPONS LUSTRAGE ROUGE 17 5/CS (20050)	8.48
+Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	Léa Bombart	262 Canal St	New York	New York	États-Unis	10013	30	(2560) BIO ACIDE PLUS (18) DÉTERGENT ACIDE 4L 4 LI	9.83
+Mahsa Nikkami	3475 Boul. Sainte-Anne	Beauport	Québec	Canada	G1E 3L5	Mahsa Nikkami	52 Fulton St	New York	New York	États-Unis	10038	60	(1150) TAMPON BLANC LÉGER 6X9 20/BTE 3M SCOTCH-BRI	8.60
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	215 Rue Peel	Montréal	Québec	Canada	H3C 2G6	20	(4375) SYSTÈME DE DILUTION FOAMER II FASTDRAW UN F	6.26
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Chanel Larivière	167 Chambers St	New York	New York	États-Unis	10013	40	(1210) LAINE D'ACIER KK ARGENT GROS 35GR DOUZAINE	6.12
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	80	(3640) THUNDER (52) DÉTERGENT COMPLET BUANDERIE 4L	7.14
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	160 Spadina Avenue	Toronto	Ontario	Canada	M5T 2C2	80	(4450) SAVON MOUSSE ANTIBACTÉRIEN 6 X 1000ML/CS 75	7.36
+Lia Mansour	5252 Cote Des Neiges	Montréal	Québec	Canada	H3T 1X8	Lia Mansour	710 King Street West	Toronto	Ontario	Canada	M5V 2Y6	70	(2395) CHIC DÉSODORISANT POUDRE À TAPIS 1000GR 100	10.55
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Francis Charette	2950 Boul. Laurier	Sainte-Foy	Québec	Canada	G1V 2M4	100	(3580) SC1000 PLUS X (2) DÉTERGENT LAVE-VAISSELLE 	12.95
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	80	(4600) GREEN EARTH DÉTERGENT POUR CHAUDRON 3.63KG 	11.94
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	100	(3820) BLOC DÉSODORISANT AVEC CROCHET 4OZ 115GR 12	10.91
+Lia Mansour	5252 Cote Des Neiges	Montréal	Québec	Canada	H3T 1X8	Philippe Marion	1692 Rue Mont Royal	Montréal	Québec	Canada	H2J 1Z5	70	(1540) TAMPONS DE FROTTAGE VERT 20 5/CS (20131)	12.97
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Pénélope Breugnon	345 Bloor Street East	Toronto	Ontario	Canada	M4W 3J6	90	(2605) BIO-3000 PLUS (2) DÉTERGENT POUDRE VAISSELL	11.31
+Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	50	(3475) RINCE PM NO.10 (1) AGENT DE RINÇAGE LAVE-VA	12.31
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	160 Spadina Avenue	Toronto	Ontario	Canada	M5T 2C2	80	(2125) TAMPON VERT MOYEN 6X9 10/PQT 10/PQT NO.90-9	10.76
+Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	Léa Bombart	262 Canal St	New York	New York	États-Unis	10013	10	(4285) SURE BET II 16 NETTOYEUR MOUSSANT POUR DOUC	8.18
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Derrick Celestin	356 Yonge Street	Toronto	Ontario	Canada	M5B 1S5	80	(1960) TAMPONS LUSTRAGE ROUGE 11 5/CS (20044)	8.48
+Sébastien Lourties	395 Flatbush Ave Exten	Brooklyn	New York	États-Unis	11201	Mayssa Mahmoud	1 Rue Notre-Dame Ouest	Montréal	Québec	Canada	H2Y 1S5	70	(4450) SAVON MOUSSE ANTIBACTÉRIEN 6 X 1000ML/CS 75	7.36
+Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	Léa Bombart	262 Canal St	New York	New York	États-Unis	10013	90	(4225) SANIBET MULTI-RANGE 18 ASSAINISSEUR 2L 2 LI	6.37
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	136 W 3rd St	New York	New York	États-Unis	10012	100	(1555) TAMPONS NETTOYAGE BLEU 13 5/CS (20202)	4.09
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Alexandra Haché	675 Yonge Street	Toronto	Ontario	Canada	M4Y 1T2	30	(2980) BOD CLEAN NETTOYEUR ALCALIN CONCENTRÉ POUR 	7.90
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	70	(1525) TAMPONS DE FROTTAGE VERT 19 5/CS (20130)	12.97
+Lia Mansour	5252 Cote Des Neiges	Montréal	Québec	Canada	H3T 1X8	Lia Mansour	5252 Cote Des Neiges	Montréal	Québec	Canada	H3T 1X8	100	(3445) POLINOX (15) POLI NETTOYANT POUR ACIER INOX	12.16
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Alexandra Haché	675 Yonge Street	Toronto	Ontario	Canada	M4Y 1T2	50	(4165) GREEN EARTH 11 NETTOYEUR AU PEROXIDE 2L 2 L	5.22
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Philippe Hanna	640 Rue Sainte-Catherine Ouest	Montréal	Québec	Canada	H3B 1B8	90	(4120) GREEN EARTH 13 DÉGRAISSEUR POUR SURFACE DUR	5.51
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Toni Wehbeh	197 12th St	Jersey City	New Jersey	États-Unis	07310	20	(3670) VIVA (5) DÉTERGENT À VAISSELLE 4L 4 LITRES 	4.78
+Lia Mansour	5252 Cote Des Neiges	Montréal	Québec	Canada	H3T 1X8	Lia Mansour	710 King Street West	Toronto	Ontario	Canada	M5V 2Y6	30	(4570) BLAZE DÉTERGENT LAVE-VAISSELLE 3.63KG 3.63 	12.92
+Alice Menez	127 Church Street	Toronto	Ontario	Canada	M5C 2G5	Alice Menez	127 Church Street	Toronto	Ontario	Canada	M5C 2G5	90	(4000) SPOT BET DÉTACHANT POUR TAPIS 946ML 946 ML 	4.10
+Alice Menez	127 Church Street	Toronto	Ontario	Canada	M5C 2G5	Ana Moscal	4100 1re Avenue	Charlesbourg	Québec	Canada	G1H 2S4	60	(1180) BICARBONATE DE SODIUM LB LB	11.05
+Mahsa Nikkami	3475 Boul. Sainte-Anne	Beauport	Québec	Canada	G1E 3L5	Mahsa Nikkami	52 Fulton St	New York	New York	États-Unis	10038	50	(1615) TAMPONS NETTOYAGE BLEU 17 5/CS (20206)	4.09
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Camille Balducchi	1221 King Street West	Toronto	Ontario	Canada	M6K 1G3	60	(4345) STATION DE DILUTION FASTDRAW PRO 4 ACTION G	6.86
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Camille Balducchi	1221 King Street West	Toronto	Ontario	Canada	M6K 1G3	70	(4015) CITRUS CHISEL 10 DÉGRAISSEUR AUX AGRUMES 2L	10.41
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Francis Charette	26 E 23rd St	New York	New York	États-Unis	10010	90	(1090) TAMPON À CHAUDRON 3.5X5 10/BTE 3M SCOTCH-BR	6.35
+Sébastien Lourties	395 Flatbush Ave Exten	Brooklyn	New York	États-Unis	11201	Sébastien Lourties	395 Flatbush Ave Exten	Brooklyn	New York	États-Unis	11201	10	(3700) D-8500 (11) BOUTEILLE VIDE 710ML UN TS-9950	5.13
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Francis Charette	26 E 23rd St	New York	New York	États-Unis	10010	20	(3055) CHEF 6000 PLUS (28) NETTOYEUR EN GEL POUR P	11.52
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Derrick Celestin	356 Yonge Street	Toronto	Ontario	Canada	M5B 1S5	80	(2425) FIESTA DÉTACHANT POUR TISSUS 4L 4 LITRES	6.12
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	10	(2065) TAMPONS LUSTRAGE ROUGE 19 5/CS (20052)	8.48
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Alexandra Haché	675 Yonge Street	Toronto	Ontario	Canada	M4Y 1T2	20	(2875) BIO-TECH (O) NEUTRALISANT D'ODEUR 1L 1 LITR	3.02
+Abde-Nnour Rahmouni	885 Bloor St West	Toronto	Ontario	Canada	M6G 1M4	Abde-Nnour Rahmouni	885 Bloor St West	Toronto	Ontario	Canada	M6G 1M4	80	(1270) SERVIETTE HUMIDE 4''X7'' 1000/CS 1000/CS	7.72
+Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	Léa Bombart	262 Canal St	New York	New York	États-Unis	10013	100	(3625) TG-800 (9) NETTOYEUR TRAPPE À GRAISSE 20L 2	7.39
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	30	(2620) BA-54 (54) ASSOUPLISSEUR 4L 4 LITRES TS-540	11.61
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Gautier Lebastard	344 Bathurst Street	Toronto	Ontario	Canada	M5T 2S3	20	(3835) BLOC URINOIR BLEU AVEC ENZYMES NON-PARA 12/	11.00
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	100	(2620) BA-54 (54) ASSOUPLISSEUR 4L 4 LITRES TS-540	11.61
+Kevin Rabah	3026 Rue Notre-Dame Ouest	Montréal	Québec	Canada	H4C 1P1	Louis Radamelle	3481 Rue Clémenceau	Beauport	Québec	Canada	G1C 0H8	50	(1435) TAMPONS DE DECAPAGE BRUN 18 5/CS (20245)	10.54
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Theo De Coninck	1703 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2J5	90	(3745) VAPORISATEUR BEC MOUSSEUR UN TS-9950120	4.35
+Elyse Simard	552 Yonge Street	Toronto	Ontario	Canada	M4Y 1Y8	Elyse Simard	552 Yonge Street	Toronto	Ontario	Canada	M4Y 1Y8	90	(4345) STATION DE DILUTION FASTDRAW PRO 4 ACTION G	6.86
+Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	Simon Thellend	30 Mall Dr W	Jersey City	New Jersey	États-Unis	07310	10	(1180) BICARBONATE DE SODIUM LB LB	11.05
+Lia Mansour	5252 Cote Des Neiges	Montréal	Québec	Canada	H3T 1X8	Philippe Marion	1692 Rue Mont Royal	Montréal	Québec	Canada	H2J 1Z5	70	(2770) BIO DETACHANT (3) ASSAINISSEUR VAISSELLE 4L	11.11
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Alexandru Dan Craciun	590 Boul. Wilfrid-Hamel	Québec	Québec	Canada	G1M 2T3	80	(3385) NEUTRA-QUAT (31) NETTOYEUR DÉSINFECTANT 4L 	6.82
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	136 W 3rd St	New York	New York	États-Unis	10012	30	(1705) TAMPONS POLISSAGE BLANC 13 5/CS (14413)	11.64
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Philippe Hanna	640 Rue Sainte-Catherine Ouest	Montréal	Québec	Canada	H3B 1B8	100	(3565) SC1000 PLUS X (2) DÉTERGENT LAVE-VAISSELLE 	10.57
+Abde-Nnour Rahmouni	885 Bloor St West	Toronto	Ontario	Canada	M6G 1M4	Abde-Nnour Rahmouni	885 Bloor St West	Toronto	Ontario	Canada	M6G 1M4	10	(2080) TAMPONS LUSTRAGE ROUGE 20 5/CS (20053)	8.48
+Lia Mansour	5252 Cote Des Neiges	Montréal	Québec	Canada	H3T 1X8	Philippe Marion	1692 Rue Mont Royal	Montréal	Québec	Canada	H2J 1Z5	30	(2005) TAMPONS LUSTRAGE ROUGE 14 5/CS (20047)	8.48
+Sébastien Lourties	395 Flatbush Ave Exten	Brooklyn	New York	États-Unis	11201	Mayssa Mahmoud	1 Rue Notre-Dame Ouest	Montréal	Québec	Canada	H2Y 1S5	30	(3535) SC1000 PLUS (2) DÉTERGENT LAVE-VAISSELLE 4L	6.77
+Mahsa Nikkami	3475 Boul. Sainte-Anne	Beauport	Québec	Canada	G1E 3L5	Mahsa Nikkami	52 Fulton St	New York	New York	États-Unis	10038	90	(1375) TAMPONS DE DECAPAGE NOIR 18 5/CS (20012)	10.54
+Elyse Simard	552 Yonge Street	Toronto	Ontario	Canada	M4Y 1Y8	Elyse Simard	552 Yonge Street	Toronto	Ontario	Canada	M4Y 1Y8	50	(1150) TAMPON BLANC LÉGER 6X9 20/BTE 3M SCOTCH-BRI	8.60
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Francis Charette	102 1st Ave.	New York	New York	États-Unis	10003	20	(2905) BIO-TECH (P) NETTOYEUR À PLANCHER ET SURFAC	9.64
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Marine Avedissian	6565 Boul. Wilfrid-Hamel	L'Ancienne-Lorette	Québec	Canada	G2E 5W3	60	(1225) TAMPON HDS PERFORMANCE 40/CS KLEIN 20080	9.05
+Lia Mansour	5252 Cote Des Neiges	Montréal	Québec	Canada	H3T 1X8	Lia Mansour	5252 Cote Des Neiges	Montréal	Québec	Canada	H3T 1X8	10	(2845) BIO-SOUR (55) NEUTRALISANT POUR LESSIVE 20L	9.90
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	100	(4300) TOP FLITE 3 NETTOYEUR TOUT-USAGE 2L 2 LITRE	4.60
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Alexandra Haché	675 Yonge Street	Toronto	Ontario	Canada	M4Y 1T2	20	(1420) TAMPONS DE DECAPAGE NOIR 21 5/CS (20015)	10.54
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Toni Wehbeh	197 12th St	Jersey City	New Jersey	États-Unis	07310	10	(1270) SERVIETTE HUMIDE 4''X7'' 1000/CS 1000/CS	7.72
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	90	(4300) TOP FLITE 3 NETTOYEUR TOUT-USAGE 2L 2 LITRE	4.60
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	160 Spadina Avenue	Toronto	Ontario	Canada	M5T 2C2	40	(1240) MANCHE FILETÉ EN FIBRE DE VERRE 60 UN EMBOU	7.34
+Abde-Nnour Rahmouni	885 Bloor St West	Toronto	Ontario	Canada	M6G 1M4	Abde-Nnour Rahmouni	885 Bloor St West	Toronto	Ontario	Canada	M6G 1M4	50	(4510) DISTRIBUTEUR AUTO SAVON MOUSSE NOIR UN 9196	12.80
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Rakhimé Abdul Kader	234 Washington St	Hoboken	New Jersey	États-Unis	07030	20	(1075) TAMPON VERT ULTRA ROBUSTE 6X9 12/BTE 3M SCO	7.81
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Derrick Celestin	356 Yonge Street	Toronto	Ontario	Canada	M5B 1S5	10	(1690) TAMPONS POLISSAGE BLANC 12 5/CS (14412)	11.64
+Alice Menez	127 Church Street	Toronto	Ontario	Canada	M5C 2G5	Ana Moscal	4100 1re Avenue	Charlesbourg	Québec	Canada	G1H 2S4	50	(2200) TAMPON PLANCHER MOYEN BLEU 4.5X10 20/CS OCT	9.40
+Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	40	(2455) TORPEDO DÉBOUCHEUR POUR DRAIN 909ML 909 ML	7.06
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	20	(4570) BLAZE DÉTERGENT LAVE-VAISSELLE 3.63KG 3.63 	12.92
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Bach Kim Tran	760 Rue Bouvier	Québec	Québec	Canada	G2J 1A3	90	(1360) TAMPONS DE DECAPAGE NOIR 17 5/CS (20011)	10.54
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Antoine Coucke	160 Broadway	New York	New York	États-Unis	10038	70	(3550) SC1000 PLUS (2) DÉTERGENT LAVE-VAISSELLE 20	9.83
+Alice Menez	127 Church Street	Toronto	Ontario	Canada	M5C 2G5	Alice Menez	127 Church Street	Toronto	Ontario	Canada	M5C 2G5	10	(2935) BV-5 (5) DÉTERGENT POUR CHAUDRON 20L 20 LIT	3.22
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Bach Kim Tran	760 Rue Bouvier	Québec	Québec	Canada	G2J 1A3	100	(3040) CHEF 6000 (8) NETTOYEUR À PLAQUE 4L 4 LITRE	8.01
+Mahsa Nikkami	3475 Boul. Sainte-Anne	Beauport	Québec	Canada	G1E 3L5	Mahsa Nikkami	3475 Boul. Sainte-Anne	Beauport	Québec	Canada	G1E 3L5	100	(1120) TAMPON VERT MOYEN 6X9 20/BTE 3M SCOTCH-BRIT	11.54
+Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	Syrine Tahar	317 Broadway	New York	New York	États-Unis	10007	80	(3010) BOD SAN 2.5 (10) ASSAINISSEUR DÉSINFECTANT 	11.00
+Gabriel Thiéry	44D Route Du Président-Kennedy	Lévis	Québec	Canada	G6V 6C5	Gabriel Thiéry	44D Route Du Président-Kennedy	Lévis	Québec	Canada	G6V 6C5	20	(3550) SC1000 PLUS (2) DÉTERGENT LAVE-VAISSELLE 20	9.83
+Abde-Nnour Rahmouni	885 Bloor St West	Toronto	Ontario	Canada	M6G 1M4	Abde-Nnour Rahmouni	885 Bloor St West	Toronto	Ontario	Canada	M6G 1M4	40	(3055) CHEF 6000 PLUS (28) NETTOYEUR EN GEL POUR P	11.52
+Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	Simon Thellend	30 Mall Dr W	Jersey City	New Jersey	États-Unis	07310	30	(2305) ANTI-MICROBE DISTRIBUTEUR POUR CARTOUCHE 1L	3.14
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	90	(2935) BV-5 (5) DÉTERGENT POUR CHAUDRON 20L 20 LIT	3.22
+Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	Simon Thellend	30 Mall Dr W	Jersey City	New Jersey	États-Unis	07310	50	(2650) BA-54 (54) ASSOUPLISSEUR 55L 55 LITRES TS-5	12.11
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	136 W 3rd St	New York	New York	États-Unis	10012	30	(1375) TAMPONS DE DECAPAGE NOIR 18 5/CS (20012)	10.54
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	136 W 3rd St	New York	New York	États-Unis	10012	60	(4225) SANIBET MULTI-RANGE 18 ASSAINISSEUR 2L 2 LI	6.37
+Elyse Simard	552 Yonge Street	Toronto	Ontario	Canada	M4Y 1Y8	Grégoire Tabouis	267 Broadway	Brooklyn	New York	États-Unis	11211	100	(2095) TAMPON BLEU MOYEN 3.5X5 UN NO.96-88	12.18
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Alexandru Dan Craciun	590 Boul. Wilfrid-Hamel	Québec	Québec	Canada	G1M 2T3	30	(3565) SC1000 PLUS X (2) DÉTERGENT LAVE-VAISSELLE 	10.57
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Alexandra Haché	675 Yonge Street	Toronto	Ontario	Canada	M4Y 1T2	40	(3625) TG-800 (9) NETTOYEUR TRAPPE À GRAISSE 20L 2	7.39
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Camille Balducchi	1221 King Street West	Toronto	Ontario	Canada	M6K 1G3	50	(4195) GREEN EARTH 32 NETTOYEUR POUR SALLE DE BAIN	4.61
+Alice Menez	127 Church Street	Toronto	Ontario	Canada	M5C 2G5	Ana Moscal	4100 1re Avenue	Charlesbourg	Québec	Canada	G1H 2S4	70	(1555) TAMPONS NETTOYAGE BLEU 13 5/CS (20202)	4.09
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	215 Rue Peel	Montréal	Québec	Canada	H3C 2G6	90	(1810) TAMPONS POLISSAGE BLANC 20 5/CS (14420)	11.64
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Rakhimé Abdul Kader	234 Washington St	Hoboken	New Jersey	États-Unis	07030	30	(2710) BD-53 (53) BUANDERIE 20L 20 LITRES TS-53002	7.98
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Camille Balducchi	1221 King Street West	Toronto	Ontario	Canada	M6K 1G3	60	(2215) TAMPON PLANCHER FORT NOIR 4.5X10 20/CS OCTO	8.70
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Rakhimé Abdul Kader	234 Washington St	Hoboken	New Jersey	États-Unis	07030	50	(2665) BIO-ALKALI (51) ADDITIF BUANDERIE 20L 20 LI	8.19
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Bach Kim Tran	760 Rue Bouvier	Québec	Québec	Canada	G2J 1A3	80	(4570) BLAZE DÉTERGENT LAVE-VAISSELLE 3.63KG 3.63 	12.92
+Sébastien Lourties	395 Flatbush Ave Exten	Brooklyn	New York	États-Unis	11201	Mayssa Mahmoud	1 Rue Notre-Dame Ouest	Montréal	Québec	Canada	H2Y 1S5	40	(2380) BAN-O DÉSODORISANT 3.64L 3.64 LITRES	7.49
+Gabriel Thiéry	44D Route Du Président-Kennedy	Lévis	Québec	Canada	G6V 6C5	Gabriel Thiéry	44D Route Du Président-Kennedy	Lévis	Québec	Canada	G6V 6C5	30	(3115) COMPLET (52) DÉTERGENT EN POUDRE POUR LESSI	5.08
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	80	(1195) LAINE D'ACIER EXTRAFINE BULLDOG NO.000 160/	12.82
+Elyse Simard	552 Yonge Street	Toronto	Ontario	Canada	M4Y 1Y8	Elyse Simard	552 Yonge Street	Toronto	Ontario	Canada	M4Y 1Y8	40	(2605) BIO-3000 PLUS (2) DÉTERGENT POUDRE VAISSELL	11.31
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Antoine Coucke	160 Broadway	New York	New York	États-Unis	10038	90	(1615) TAMPONS NETTOYAGE BLEU 17 5/CS (20206)	4.09
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Francis Charette	2950 Boul. Laurier	Sainte-Foy	Québec	Canada	G1V 2M4	30	(4105) GREEN EARTH 19 ÉTIQUETTE NETTOYEUR À VITRES	12.47
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Lucas Larbodière	470 Yonge Street	Toronto	Ontario	Canada	M4Y 1X5	40	(3055) CHEF 6000 PLUS (28) NETTOYEUR EN GEL POUR P	11.52
+Mahsa Nikkami	3475 Boul. Sainte-Anne	Beauport	Québec	Canada	G1E 3L5	Tania Provencher	335 8th Ave	Manhattan	New York	États-Unis	10001	80	(2845) BIO-SOUR (55) NEUTRALISANT POUR LESSIVE 20L	9.90
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	40	(1810) TAMPONS POLISSAGE BLANC 20 5/CS (14420)	11.64
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Rakhimé Abdul Kader	2901 Sherbrooke St Est	Montréal	Québec	Canada	H1W 1B2	100	(4135) GREEN EARTH 13 ÉTIQUETTE DÉGRAISSEUR POUR S	11.12
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Rakhimé Abdul Kader	2901 Sherbrooke St Est	Montréal	Québec	Canada	H1W 1B2	80	(3250) D-8500 (11) DÉGRAISSEUR TOUT-USAGE 4L 4 LIT	11.32
+Elyse Simard	552 Yonge Street	Toronto	Ontario	Canada	M4Y 1Y8	Grégoire Tabouis	267 Broadway	Brooklyn	New York	États-Unis	11211	100	(1105) TAMPON À CHAUDRON 3.5X5 20/CS NIAGARA	7.81
+Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	Syrine Tahar	317 Broadway	New York	New York	États-Unis	10007	70	(3370) NEUTRAL 500 ULTRA (12) DÉTERGENT NEUTRE 4L 	4.51
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Antoine Coucke	160 Broadway	New York	New York	États-Unis	10038	60	(2395) CHIC DÉSODORISANT POUDRE À TAPIS 1000GR 100	10.55
+Ludovic Desharnais-Gervais	8900 Boul. Henri-Bourassa	Charlesbourg	Québec	Canada	G1G 4O3	Nilssa Destine	541 6th Ave	New York	New York	États-Unis	10011	30	(2125) TAMPON VERT MOYEN 6X9 10/PQT 10/PQT NO.90-9	10.76
+Sébastien Lourties	395 Flatbush Ave Exten	Brooklyn	New York	États-Unis	11201	Sébastien Lourties	395 Flatbush Ave Exten	Brooklyn	New York	États-Unis	11201	80	(1855) TAMPONS PORKO PLUS ULTRA HAUTE VITESSE BRUN	4.27
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Lucas Larbodière	470 Yonge Street	Toronto	Ontario	Canada	M4Y 1X5	80	(2035) TAMPONS LUSTRAGE ROUGE 17 5/CS (20050)	8.48
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Marine Avedissian	6565 Boul. Wilfrid-Hamel	L'Ancienne-Lorette	Québec	Canada	G2E 5W3	80	(2125) TAMPON VERT MOYEN 6X9 10/PQT 10/PQT NO.90-9	10.76
+Ludovic Desharnais-Gervais	8900 Boul. Henri-Bourassa	Charlesbourg	Québec	Canada	G1G 4O3	Ludovic Desharnais-Gervais	8900 Boul. Henri-Bourassa	Charlesbourg	Québec	Canada	G1G 4O3	30	(2740) BDL-52 (52) BUANDERIE 20L 20 LITRES TS-5200	5.79
+Ludovic Desharnais-Gervais	8900 Boul. Henri-Bourassa	Charlesbourg	Québec	Canada	G1G 4O3	Nilssa Destine	541 6th Ave	New York	New York	États-Unis	10011	30	(1375) TAMPONS DE DECAPAGE NOIR 18 5/CS (20012)	10.54
+Mahsa Nikkami	3475 Boul. Sainte-Anne	Beauport	Québec	Canada	G1E 3L5	Mahsa Nikkami	52 Fulton St	New York	New York	États-Unis	10038	40	(1375) TAMPONS DE DECAPAGE NOIR 18 5/CS (20012)	10.54
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	10	(3430) P-4000 (4) POUDRE TREMPAGE USTENSILE 20KG 2	6.76
+Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	Syrine Tahar	317 Broadway	New York	New York	États-Unis	10007	30	(1060) TAMPON GRILLE CHAUDE 4.5X5.5 10/BTE 3M SCOT	6.35
+Ludovic Desharnais-Gervais	8900 Boul. Henri-Bourassa	Charlesbourg	Québec	Canada	G1G 4O3	Ludovic Desharnais-Gervais	8900 Boul. Henri-Bourassa	Charlesbourg	Québec	Canada	G1G 4O3	70	(1240) MANCHE FILETÉ EN FIBRE DE VERRE 60 UN EMBOU	7.34
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Bach Kim Tran	8000 Av. Des Églises	Charny	Québec	Canada	G6X 1X4	90	(3145) CYCLONE (52) DÉTERGENT POUR LESSIVE 4L 4 LI	9.11
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Thomas Donadei	2520 Ch. Des Quatre-Bourgeois	Sainte-Foy	Québec	Canada	G1V 4R2	20	(4390) RACK POUR PRODUIT DE DILUTION FASTDRAW UN F	11.77
+Elyse Simard	552 Yonge Street	Toronto	Ontario	Canada	M4Y 1Y8	Grégoire Tabouis	267 Broadway	Brooklyn	New York	États-Unis	11211	50	(3880) HARD AS NAILS FINI À PLANCHER 3.78L 3.78 LI	10.52
+Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	30	(3535) SC1000 PLUS (2) DÉTERGENT LAVE-VAISSELLE 4L	6.77
+Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	90	(3715) NEUTRAL 500 PLUS (12) BOUTEILLE VIDE 710ML 	8.07
+Sébastien Lourties	395 Flatbush Ave Exten	Brooklyn	New York	États-Unis	11201	Mayssa Mahmoud	1 Rue Notre-Dame Ouest	Montréal	Québec	Canada	H2Y 1S5	60	(3370) NEUTRAL 500 ULTRA (12) DÉTERGENT NEUTRE 4L 	4.51
+Kevin Rabah	3026 Rue Notre-Dame Ouest	Montréal	Québec	Canada	H4C 1P1	Kevin Rabah	3026 Rue Notre-Dame Ouest	Montréal	Québec	Canada	H4C 1P1	80	(3565) SC1000 PLUS X (2) DÉTERGENT LAVE-VAISSELLE 	10.57
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Marine Avedissian	6565 Boul. Wilfrid-Hamel	L'Ancienne-Lorette	Québec	Canada	G2E 5W3	100	(1570) TAMPONS NETTOYAGE BLEU 14 5/CS (20203)	4.09
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	1825 Route Des Rivières	Lévis	Québec	Canada	G7A 1C8	10	(4570) BLAZE DÉTERGENT LAVE-VAISSELLE 3.63KG 3.63 	12.92
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Camille Balducchi	1221 King Street West	Toronto	Ontario	Canada	M6K 1G3	80	(3550) SC1000 PLUS (2) DÉTERGENT LAVE-VAISSELLE 20	9.83
+Lia Mansour	5252 Cote Des Neiges	Montréal	Québec	Canada	H3T 1X8	Philippe Marion	1692 Rue Mont Royal	Montréal	Québec	Canada	H2J 1Z5	30	(3100) COMPLET (52) DÉTERGENT EN POUDRE POUR LESSI	6.08
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Bach Kim Tran	760 Rue Bouvier	Québec	Québec	Canada	G2J 1A3	40	(1270) SERVIETTE HUMIDE 4''X7'' 1000/CS 1000/CS	7.72
+Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	20	(4270) SPRAY FOAM ULTRA 29 ÉTIQUETTE POUR ASSAINIS	11.88
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Francis Charette	2950 Boul. Laurier	Sainte-Foy	Québec	Canada	G1V 2M4	40	(2455) TORPEDO DÉBOUCHEUR POUR DRAIN 909ML 909 ML	7.06
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	136 W 3rd St	New York	New York	États-Unis	10012	90	(2815) BD-3 (3) ASSAINISSEUR VAISSELLE 6 20L 20 LI	4.53
+Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	60	(3925) HYBRID FINI À PLANCHER 18.9L 18.9 LITRES 66	3.12
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Bach Kim Tran	8000 Av. Des Églises	Charny	Québec	Canada	G6X 1X4	90	(3535) SC1000 PLUS (2) DÉTERGENT LAVE-VAISSELLE 4L	6.77
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Francis Charette	2950 Boul. Laurier	Sainte-Foy	Québec	Canada	G1V 2M4	100	(3820) BLOC DÉSODORISANT AVEC CROCHET 4OZ 115GR 12	10.91
+Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	50	(4495) DISTRIBUTEUR AUTO SAVON MOUSSE BLANC UN 918	4.29
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	70	(3910) HYBRID FINI À PLANCHER 3.78L 3.78 LITRES 66	4.56
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	10	(3550) SC1000 PLUS (2) DÉTERGENT LAVE-VAISSELLE 20	9.83
+Mahsa Nikkami	3475 Boul. Sainte-Anne	Beauport	Québec	Canada	G1E 3L5	Mahsa Nikkami	52 Fulton St	New York	New York	États-Unis	10038	20	(2635) BA-54 (54) ASSOUPLISSEUR 20L 20 LITRES TS-5	5.29
+Sébastien Lourties	395 Flatbush Ave Exten	Brooklyn	New York	États-Unis	11201	Mayssa Mahmoud	1 Rue Notre-Dame Ouest	Montréal	Québec	Canada	H2Y 1S5	10	(2410) FIESTA DÉTACHANT POUR TISSUS 909ML 909 ML	9.94
+Ludovic Desharnais-Gervais	8900 Boul. Henri-Bourassa	Charlesbourg	Québec	Canada	G1G 4O3	Ludovic Desharnais-Gervais	8900 Boul. Henri-Bourassa	Charlesbourg	Québec	Canada	G1G 4O3	70	(2275) TAMPON ÉPONGE RÉCURANTE MOYENNE 6.25X3.18 U	11.93
+Alice Menez	127 Church Street	Toronto	Ontario	Canada	M5C 2G5	Alice Menez	127 Church Street	Toronto	Ontario	Canada	M5C 2G5	40	(1240) MANCHE FILETÉ EN FIBRE DE VERRE 60 UN EMBOU	7.34
+Mahsa Nikkami	3475 Boul. Sainte-Anne	Beauport	Québec	Canada	G1E 3L5	Tania Provencher	335 8th Ave	Manhattan	New York	États-Unis	10001	20	(1945) TAMPONS PORKO EXTREME ULTRA HAUTE VITESSE B	3.29
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	30	(2785) BIO DETACHANT (3) ASSAINISSEUR VAISSELLE 20	7.03
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Francis Charette	2950 Boul. Laurier	Sainte-Foy	Québec	Canada	G1V 2M4	10	(1600) TAMPONS NETTOYAGE BLEU 16 5/CS (20205)	4.09
+Sébastien Lourties	395 Flatbush Ave Exten	Brooklyn	New York	États-Unis	11201	Sébastien Lourties	395 Flatbush Ave Exten	Brooklyn	New York	États-Unis	11201	30	(3895) HARD AS NAILS FINI À PLANCHER 18.9L 18.9 LI	12.52
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Bach Kim Tran	8000 Av. Des Églises	Charny	Québec	Canada	G6X 1X4	10	(4480) DISTRIBUTEUR MANUEL SAVON MOUSSE NOIR UN 91	6.73
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Pénélope Breugnon	345 Bloor Street East	Toronto	Ontario	Canada	M4W 3J6	90	(4390) RACK POUR PRODUIT DE DILUTION FASTDRAW UN F	11.77
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	70	(3850) GLARE FINI À PLANCHER 3.78L 3.78 LITRES 605	9.65
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Thomas Donadei	2010 Av. Papineau	Montréal	Québec	Canada	H2K 4J4	50	(1270) SERVIETTE HUMIDE 4''X7'' 1000/CS 1000/CS	7.72
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Lucas Larbodière	470 Yonge Street	Toronto	Ontario	Canada	M4Y 1X5	100	(4405) PULL NETTOYEUR À CUVETTE 946ML 946 ML 07112	9.88
+Ludovic Desharnais-Gervais	8900 Boul. Henri-Bourassa	Charlesbourg	Québec	Canada	G1G 4O3	Nilssa Destine	541 6th Ave	New York	New York	États-Unis	10011	100	(1195) LAINE D'ACIER EXTRAFINE BULLDOG NO.000 160/	12.82
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	40	(1915) TAMPONS ULTRA HAUTE VITESSE BRUNISSAGE AQUA	3.10
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Thomas Donadei	2010 Av. Papineau	Montréal	Québec	Canada	H2K 4J4	100	(4540) DETERGENT 115 DÉTERGENT LAVE-VAISSELLE 18.9	5.59
+Kevin Rabah	3026 Rue Notre-Dame Ouest	Montréal	Québec	Canada	H4C 1P1	Louis Radamelle	3481 Rue Clémenceau	Beauport	Québec	Canada	G1C 0H8	40	(1810) TAMPONS POLISSAGE BLANC 20 5/CS (14420)	11.64
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Gautier Lebastard	344 Bathurst Street	Toronto	Ontario	Canada	M5T 2S3	70	(4495) DISTRIBUTEUR AUTO SAVON MOUSSE BLANC UN 918	4.29
+Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	40	(3250) D-8500 (11) DÉGRAISSEUR TOUT-USAGE 4L 4 LIT	11.32
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	50	(4540) DETERGENT 115 DÉTERGENT LAVE-VAISSELLE 18.9	5.59
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Rakhimé Abdul Kader	2901 Sherbrooke St Est	Montréal	Québec	Canada	H1W 1B2	50	(4375) SYSTÈME DE DILUTION FOAMER II FASTDRAW UN F	6.26
+Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	30	(1450) TAMPONS DE FROTTAGE VERT 13 5/CS (20124)	12.97
+Abde-Nnour Rahmouni	885 Bloor St West	Toronto	Ontario	Canada	M6G 1M4	Abde-Nnour Rahmouni	885 Bloor St West	Toronto	Ontario	Canada	M6G 1M4	60	(4240) SANIBET MULTI-RANGE 18 ÉTIQUETTE POUR ASSAI	7.74
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Yann Chapdelaine-Roy	428 Grand St	Jersey City	New Jersey	États-Unis	07303	40	(2635) BA-54 (54) ASSOUPLISSEUR 20L 20 LITRES TS-5	5.29
+Gabriel Thiéry	44D Route Du Président-Kennedy	Lévis	Québec	Canada	G6V 6C5	Gabriel Thiéry	44D Route Du Président-Kennedy	Lévis	Québec	Canada	G6V 6C5	60	(4390) RACK POUR PRODUIT DE DILUTION FASTDRAW UN F	11.77
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Gautier Lebastard	344 Bathurst Street	Toronto	Ontario	Canada	M5T 2S3	40	(3400) NSB-820 (17) NETTOYEUR ACIDE POUR SALLE DE 	3.44
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Bach Kim Tran	760 Rue Bouvier	Québec	Québec	Canada	G2J 1A3	100	(2140) TAMPON VERT MOYEN 6X9 UN NO.90-96 (196F-226	12.91
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Yann Chapdelaine-Roy	428 Grand St	Jersey City	New Jersey	États-Unis	07303	50	(2485) AF-160 (16) PURIFICATEUR D'AIR FRUITÉ 4L 4 	9.05
+Alice Menez	127 Church Street	Toronto	Ontario	Canada	M5C 2G5	Ana Moscal	4100 1re Avenue	Charlesbourg	Québec	Canada	G1H 2S4	90	(1750) TAMPONS POLISSAGE BLANC 16 5/CS (14416)	11.64
+Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	10	(1645) TAMPONS NETTOYAGE BLEU 19 5/CS (20208)	4.09
+Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	Simon Thellend	30 Mall Dr W	Jersey City	New Jersey	États-Unis	07310	10	(3265) D-8500 (11) DÉGRAISSEUR TOUT-USAGE 20L 20 L	5.88
+Sébastien Lourties	395 Flatbush Ave Exten	Brooklyn	New York	États-Unis	11201	Mayssa Mahmoud	1 Rue Notre-Dame Ouest	Montréal	Québec	Canada	H2Y 1S5	60	(4270) SPRAY FOAM ULTRA 29 ÉTIQUETTE POUR ASSAINIS	11.88
+Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	Syrine Tahar	317 Broadway	New York	New York	États-Unis	10007	90	(2500) AR2000 (1) ADDITIF DE RINÇAGE VAISSELLE 4L 	10.83
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Antoine Coucke	160 Broadway	New York	New York	États-Unis	10038	60	(3850) GLARE FINI À PLANCHER 3.78L 3.78 LITRES 605	9.65
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Philippe Hanna	640 Rue Sainte-Catherine Ouest	Montréal	Québec	Canada	H3B 1B8	100	(1345) TAMPONS DE DECAPAGE NOIR 16 5/CS (20010)	10.54
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Theo De Coninck	1703 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2J5	50	(1915) TAMPONS ULTRA HAUTE VITESSE BRUNISSAGE AQUA	3.10
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Francis Charette	2950 Boul. Laurier	Sainte-Foy	Québec	Canada	G1V 2M4	70	(2605) BIO-3000 PLUS (2) DÉTERGENT POUDRE VAISSELL	11.31
+Sébastien Lourties	395 Flatbush Ave Exten	Brooklyn	New York	États-Unis	11201	Sébastien Lourties	395 Flatbush Ave Exten	Brooklyn	New York	États-Unis	11201	40	(2350) MULTI ACTION 5 DÉSINFECTANT 4L 4 LITRES	5.61
+Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	Simon Thellend	30 Mall Dr W	Jersey City	New Jersey	États-Unis	07310	40	(2320) BIO KLEEN ALL DÉGRAISSEUR TOUT USAGE 4L 4 L	12.28
+Elyse Simard	552 Yonge Street	Toronto	Ontario	Canada	M4Y 1Y8	Grégoire Tabouis	267 Broadway	Brooklyn	New York	États-Unis	11211	20	(3760) DÉSODORISANT MOUSSE À TAPIS AÉROSOL 14 OZ	11.28
+Lia Mansour	5252 Cote Des Neiges	Montréal	Québec	Canada	H3T 1X8	Lia Mansour	5252 Cote Des Neiges	Montréal	Québec	Canada	H3T 1X8	50	(2050) TAMPONS LUSTRAGE ROUGE 18 5/CS (20051)	8.48
+Ludovic Desharnais-Gervais	8900 Boul. Henri-Bourassa	Charlesbourg	Québec	Canada	G1G 4O3	Ludovic Desharnais-Gervais	8900 Boul. Henri-Bourassa	Charlesbourg	Québec	Canada	G1G 4O3	70	(2755) BDL-52 (52) BUANDERIE 55L 55 LITRES TS-5200	12.79
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	160 Spadina Avenue	Toronto	Ontario	Canada	M5T 2C2	90	(3955) UNTOUCHABLE FINI À PLANCHER SRT 18.9L 18.9 	10.28
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Thomas Donadei	2520 Ch. Des Quatre-Bourgeois	Sainte-Foy	Québec	Canada	G1V 4R2	100	(4315) TOP FLITE 3 ÉTIQUETTE POUR NETTOYEUR TOUT-U	5.85
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Francis Charette	2950 Boul. Laurier	Sainte-Foy	Québec	Canada	G1V 2M4	60	(4075) GREEN EARTH 20 NETTOYEUR À PLANCHER QUOTIDI	5.46
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	90	(4015) CITRUS CHISEL 10 DÉGRAISSEUR AUX AGRUMES 2L	10.41
+Kevin Rabah	3026 Rue Notre-Dame Ouest	Montréal	Québec	Canada	H4C 1P1	Louis Radamelle	3481 Rue Clémenceau	Beauport	Québec	Canada	G1C 0H8	60	(4285) SURE BET II 16 NETTOYEUR MOUSSANT POUR DOUC	8.18
+Abde-Nnour Rahmouni	885 Bloor St West	Toronto	Ontario	Canada	M6G 1M4	Abde-Nnour Rahmouni	885 Bloor St West	Toronto	Ontario	Canada	M6G 1M4	60	(3400) NSB-820 (17) NETTOYEUR ACIDE POUR SALLE DE 	3.44
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Rakhimé Abdul Kader	2901 Sherbrooke St Est	Montréal	Québec	Canada	H1W 1B2	100	(3835) BLOC URINOIR BLEU AVEC ENZYMES NON-PARA 12/	11.00
+Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	Syrine Tahar	317 Broadway	New York	New York	États-Unis	10007	20	(1885) TAMPONS ULTRA HAUTE VITESSE BRUNISSAGE AQUA	6.71
+Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	Simon Thellend	30 Mall Dr W	Jersey City	New Jersey	États-Unis	07310	30	(3010) BOD SAN 2.5 (10) ASSAINISSEUR DÉSINFECTANT 	11.00
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	404 E 14th St	New York	New York	États-Unis	10009	80	(3775) CONTRÔLE D'ODEUR FIRE D EN AÉROSOL 5 OZ ONE	8.75
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Lucas Larbodière	470 Yonge Street	Toronto	Ontario	Canada	M4Y 1X5	20	(1045) EPONGE A RECURER MOYEN 3.5X6.25 20/CS NIAGA	6.30
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Thomas Donadei	2520 Ch. Des Quatre-Bourgeois	Sainte-Foy	Québec	Canada	G1V 4R2	50	(4510) DISTRIBUTEUR AUTO SAVON MOUSSE NOIR UN 9196	12.80
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	20	(4135) GREEN EARTH 13 ÉTIQUETTE DÉGRAISSEUR POUR S	11.12
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	20	(1630) TAMPONS NETTOYAGE BLEU 18 5/CS (20207)	4.09
+Abde-Nnour Rahmouni	885 Bloor St West	Toronto	Ontario	Canada	M6G 1M4	Abde-Nnour Rahmouni	885 Bloor St West	Toronto	Ontario	Canada	M6G 1M4	90	(2485) AF-160 (16) PURIFICATEUR D'AIR FRUITÉ 4L 4 	9.05
+Alice Menez	127 Church Street	Toronto	Ontario	Canada	M5C 2G5	Ana Moscal	4100 1re Avenue	Charlesbourg	Québec	Canada	G1H 2S4	40	(3970) EXTREME DÉCAPANT À PLANCHER 3.78L 3.78 LITR	11.09
+Lia Mansour	5252 Cote Des Neiges	Montréal	Québec	Canada	H3T 1X8	Philippe Marion	1692 Rue Mont Royal	Montréal	Québec	Canada	H2J 1Z5	10	(1990) TAMPONS LUSTRAGE ROUGE 13 5/CS (20046)	8.48
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Gautier Lebastard	344 Bathurst Street	Toronto	Ontario	Canada	M5T 2S3	30	(3265) D-8500 (11) DÉGRAISSEUR TOUT-USAGE 20L 20 L	5.88
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	1825 Route Des Rivières	Lévis	Québec	Canada	G7A 1C8	100	(3325) L-4000 (4) TREMPAGE USTENSILE 20L 20 LITRES	3.64
+Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	40	(1840) TAMPONS POLISSAGE BLANC 24 5/CS (14424)	11.64
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Francis Charette	2950 Boul. Laurier	Sainte-Foy	Québec	Canada	G1V 2M4	40	(4525) PIED POUR DISTRIBUTEUR CLARIO TOUCH FREE UN	8.09
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Yann Chapdelaine-Roy	428 Grand St	Jersey City	New Jersey	États-Unis	07303	80	(2845) BIO-SOUR (55) NEUTRALISANT POUR LESSIVE 20L	9.90
+Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	Kawtar Boulhroude	809 6th Ave	Manhattan	New York	États-Unis	10001	100	(1375) TAMPONS DE DECAPAGE NOIR 18 5/CS (20012)	10.54
+Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	Léa Bombart	262 Canal St	New York	New York	États-Unis	10013	60	(4600) GREEN EARTH DÉTERGENT POUR CHAUDRON 3.63KG 	11.94
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	50	(2905) BIO-TECH (P) NETTOYEUR À PLANCHER ET SURFAC	9.64
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	404 E 14th St	New York	New York	États-Unis	10009	60	(3340) NEUTRAL 500 PLUS (12) DÉTERGENT NEUTRE 4L 4	11.92
+Mahsa Nikkami	3475 Boul. Sainte-Anne	Beauport	Québec	Canada	G1E 3L5	Tania Provencher	335 8th Ave	Manhattan	New York	États-Unis	10001	30	(1525) TAMPONS DE FROTTAGE VERT 19 5/CS (20130)	12.97
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Lucas Larbodière	470 Yonge Street	Toronto	Ontario	Canada	M4Y 1X5	50	(1855) TAMPONS PORKO PLUS ULTRA HAUTE VITESSE BRUN	4.27
+Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	60	(3730) V-200 (7) BOUTEILLE VIDE 710ML UN TS-995002	8.38
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	70	(3490) RINCE PM NO.10 (1) AGENT DE RINÇAGE LAVE-VA	3.87
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Gautier Lebastard	344 Bathurst Street	Toronto	Ontario	Canada	M5T 2S3	40	(2815) BD-3 (3) ASSAINISSEUR VAISSELLE 6 20L 20 LI	4.53
+Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	Léa Bombart	262 Canal St	New York	New York	États-Unis	10013	90	(4060) ÉTIQUETTE DÉSINFECTANT À USAGE QUOTIDIEN SC	7.90
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Bach Kim Tran	760 Rue Bouvier	Québec	Québec	Canada	G2J 1A3	30	(2350) MULTI ACTION 5 DÉSINFECTANT 4L 4 LITRES	5.61
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Yann Chapdelaine-Roy	428 Grand St	Jersey City	New Jersey	États-Unis	07303	30	(3805) CONTRÔLE D'ODEUR NEW CAR SCENT EN AÉROSOL 5	4.20
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	160 Spadina Avenue	Toronto	Ontario	Canada	M5T 2C2	90	(3955) UNTOUCHABLE FINI À PLANCHER SRT 18.9L 18.9 	10.28
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Sharlie-Anne Vivier	208 Varrick St	New York	New York	États-Unis	10014	70	(4150) PUSH 28 ÉTIQUETTE POUR SOLUTION BIOACTIVE U	11.21
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Lucas Larbodière	470 Yonge Street	Toronto	Ontario	Canada	M4Y 1X5	30	(3865) GLARE FINI À PLANCHER 18.9L 18.9 LITRES 605	4.54
+Sébastien Lourties	395 Flatbush Ave Exten	Brooklyn	New York	États-Unis	11201	Sébastien Lourties	395 Flatbush Ave Exten	Brooklyn	New York	États-Unis	11201	80	(4075) GREEN EARTH 20 NETTOYEUR À PLANCHER QUOTIDI	5.46
+Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	Simon Thellend	30 Mall Dr W	Jersey City	New Jersey	États-Unis	07310	10	(1225) TAMPON HDS PERFORMANCE 40/CS KLEIN 20080	9.05
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	215 Rue Peel	Montréal	Québec	Canada	H3C 2G6	20	(3910) HYBRID FINI À PLANCHER 3.78L 3.78 LITRES 66	4.56
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Theo De Coninck	1703 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2J5	100	(2950) BMF-ULTRA SAN (13) SAVON À MAINS 4L 4 LITRE	7.33
+Alice Menez	127 Church Street	Toronto	Ontario	Canada	M5C 2G5	Ana Moscal	4100 1re Avenue	Charlesbourg	Québec	Canada	G1H 2S4	10	(2515) AR2000 (1) ADDITIF DE RINÇAGE VAISSELLE 20L	6.02
+Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	Simon Thellend	30 Mall Dr W	Jersey City	New Jersey	États-Unis	07310	60	(2695) BD-53 (53) BUANDERIE 4L 4 LITRES TS-530044 	6.62
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Derrick Celestin	356 Yonge Street	Toronto	Ontario	Canada	M5B 1S5	100	(2890) BIO-TECH (P) NETTOYEUR À PLANCHER ET SURFAC	4.54
+Ken Seidenstein	1016 De La Montagne	Montréal	Québec	Canada	H3G 1Y7	Ken Seidenstein	1016 De La Montagne	Montréal	Québec	Canada	H3G 1Y7	70	(2410) FIESTA DÉTACHANT POUR TISSUS 909ML 909 ML	9.94
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	215 Rue Peel	Montréal	Québec	Canada	H3C 2G6	40	(3250) D-8500 (11) DÉGRAISSEUR TOUT-USAGE 4L 4 LIT	11.32
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Thomas Donadei	2520 Ch. Des Quatre-Bourgeois	Sainte-Foy	Québec	Canada	G1V 4R2	100	(2290) PIERRE GRILLE & PLAQUE 8X4 UN	12.92
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	80	(3370) NEUTRAL 500 ULTRA (12) DÉTERGENT NEUTRE 4L 	4.51
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	1825 Route Des Rivières	Lévis	Québec	Canada	G7A 1C8	30	(3115) COMPLET (52) DÉTERGENT EN POUDRE POUR LESSI	5.08
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Sharlie-Anne Vivier	208 Varrick St	New York	New York	États-Unis	10014	60	(2725) BD-53 (53) BUANDERIE 55L 55 LITRES TS-53005	6.96
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Theo De Coninck	1703 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2J5	80	(3580) SC1000 PLUS X (2) DÉTERGENT LAVE-VAISSELLE 	12.95
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	215 Rue Peel	Montréal	Québec	Canada	H3C 2G6	20	(1165) TAMPON À DÉCAPER À HAUT RENDEMENT NOIR 19 U	11.54
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Francis Charette	2950 Boul. Laurier	Sainte-Foy	Québec	Canada	G1V 2M4	70	(1960) TAMPONS LUSTRAGE ROUGE 11 5/CS (20044)	8.48
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	160 Spadina Avenue	Toronto	Ontario	Canada	M5T 2C2	100	(3640) THUNDER (52) DÉTERGENT COMPLET BUANDERIE 4L	7.14
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Marine Avedissian	6565 Boul. Wilfrid-Hamel	L'Ancienne-Lorette	Québec	Canada	G2E 5W3	50	(2680) BIO-ALKALI (51) ADDITIF BUANDERIE 55L 55 LI	4.65
+Elyse Simard	552 Yonge Street	Toronto	Ontario	Canada	M4Y 1Y8	Elyse Simard	552 Yonge Street	Toronto	Ontario	Canada	M4Y 1Y8	60	(3655) V-200 PLUS (7) NETTOYEUR À VITRES 4L 4 LITR	9.52
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	160 Spadina Avenue	Toronto	Ontario	Canada	M5T 2C2	30	(1510) TAMPONS DE FROTTAGE VERT 18 5/CS (20129)	12.97
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Chanel Larivière	167 Chambers St	New York	New York	États-Unis	10013	90	(1240) MANCHE FILETÉ EN FIBRE DE VERRE 60 UN EMBOU	7.34
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	136 W 3rd St	New York	New York	États-Unis	10012	40	(3865) GLARE FINI À PLANCHER 18.9L 18.9 LITRES 605	4.54
+Lia Mansour	5252 Cote Des Neiges	Montréal	Québec	Canada	H3T 1X8	Lia Mansour	710 King Street West	Toronto	Ontario	Canada	M5V 2Y6	70	(3310) L-4000 (4) TREMPAGE USTENSILE 4L 4 LITRES T	4.75
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Yann Chapdelaine-Roy	428 Grand St	Jersey City	New Jersey	États-Unis	07303	10	(1270) SERVIETTE HUMIDE 4''X7'' 1000/CS 1000/CS	7.72
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Rakhimé Abdul Kader	234 Washington St	Hoboken	New Jersey	États-Unis	07030	70	(2320) BIO KLEEN ALL DÉGRAISSEUR TOUT USAGE 4L 4 L	12.28
+Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	100	(3025) BOD SAN RTU (10) ASSAINISSEUR DÉSINFECTANT 	6.68
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	136 W 3rd St	New York	New York	États-Unis	10012	100	(2335) BIO CULTURE CONTRÔLE D'ODEURS 4L 4 LITRES	8.14
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Alexandra Haché	675 Yonge Street	Toronto	Ontario	Canada	M4Y 1T2	40	(3340) NEUTRAL 500 PLUS (12) DÉTERGENT NEUTRE 4L 4	11.92
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Gautier Lebastard	344 Bathurst Street	Toronto	Ontario	Canada	M5T 2S3	70	(2875) BIO-TECH (O) NEUTRALISANT D'ODEUR 1L 1 LITR	3.02
+Mahsa Nikkami	3475 Boul. Sainte-Anne	Beauport	Québec	Canada	G1E 3L5	Mahsa Nikkami	3475 Boul. Sainte-Anne	Beauport	Québec	Canada	G1E 3L5	60	(2770) BIO DETACHANT (3) ASSAINISSEUR VAISSELLE 4L	11.11
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	80	(1315) TAMPONS DE DECAPAGE NOIR 13 5/CS (20007)	10.54
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Alexandra Haché	675 Yonge Street	Toronto	Ontario	Canada	M4Y 1T2	80	(3760) DÉSODORISANT MOUSSE À TAPIS AÉROSOL 14 OZ	11.28
+Sébastien Lourties	395 Flatbush Ave Exten	Brooklyn	New York	États-Unis	11201	Sébastien Lourties	395 Flatbush Ave Exten	Brooklyn	New York	États-Unis	11201	100	(1570) TAMPONS NETTOYAGE BLEU 14 5/CS (20203)	4.09
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Bach Kim Tran	760 Rue Bouvier	Québec	Québec	Canada	G2J 1A3	40	(1420) TAMPONS DE DECAPAGE NOIR 21 5/CS (20015)	10.54
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Sharlie-Anne Vivier	208 Varrick St	New York	New York	États-Unis	10014	40	(3190) CYCLONE HE (52) DÉTERGENT POUR LESSIVE HE 2	8.13
+Mahsa Nikkami	3475 Boul. Sainte-Anne	Beauport	Québec	Canada	G1E 3L5	Tania Provencher	335 8th Ave	Manhattan	New York	États-Unis	10001	100	(4330) STATION DE DILUTION FASTDRAW 1 ACTION GAP U	10.83
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Thomas Donadei	2010 Av. Papineau	Montréal	Québec	Canada	H2K 4J4	80	(2305) ANTI-MICROBE DISTRIBUTEUR POUR CARTOUCHE 1L	3.14
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	215 Rue Peel	Montréal	Québec	Canada	H3C 2G6	10	(4225) SANIBET MULTI-RANGE 18 ASSAINISSEUR 2L 2 LI	6.37
+Elyse Simard	552 Yonge Street	Toronto	Ontario	Canada	M4Y 1Y8	Grégoire Tabouis	267 Broadway	Brooklyn	New York	États-Unis	11211	70	(3490) RINCE PM NO.10 (1) AGENT DE RINÇAGE LAVE-VA	3.87
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Rakhimé Abdul Kader	234 Washington St	Hoboken	New Jersey	États-Unis	07030	10	(2680) BIO-ALKALI (51) ADDITIF BUANDERIE 55L 55 LI	4.65
+Lia Mansour	5252 Cote Des Neiges	Montréal	Québec	Canada	H3T 1X8	Lia Mansour	710 King Street West	Toronto	Ontario	Canada	M5V 2Y6	70	(1435) TAMPONS DE DECAPAGE BRUN 18 5/CS (20245)	10.54
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Lucas Larbodière	470 Yonge Street	Toronto	Ontario	Canada	M4Y 1X5	90	(2965) BOD CARE NETTOYEUR ACIDE DÉTARTRANT POUR FO	8.06
+Alice Menez	127 Church Street	Toronto	Ontario	Canada	M5C 2G5	Alice Menez	127 Church Street	Toronto	Ontario	Canada	M5C 2G5	30	(3220) DP-3000 (2) DÉTERGENT POUDRE LAVE-VAISSELLE	12.99
+Ken Seidenstein	1016 De La Montagne	Montréal	Québec	Canada	H3G 1Y7	Ken Seidenstein	1016 De La Montagne	Montréal	Québec	Canada	H3G 1Y7	30	(2065) TAMPONS LUSTRAGE ROUGE 19 5/CS (20052)	8.48
+Lia Mansour	5252 Cote Des Neiges	Montréal	Québec	Canada	H3T 1X8	Philippe Marion	1692 Rue Mont Royal	Montréal	Québec	Canada	H2J 1Z5	10	(3355) NEUTRAL 500 PLUS (12) DÉTERGENT NEUTRE 20L 	5.00
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Francis Charette	102 1st Ave.	New York	New York	États-Unis	10003	90	(2305) ANTI-MICROBE DISTRIBUTEUR POUR CARTOUCHE 1L	3.14
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Camille Balducchi	1221 King Street West	Toronto	Ontario	Canada	M6K 1G3	80	(3010) BOD SAN 2.5 (10) ASSAINISSEUR DÉSINFECTANT 	11.00
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Pénélope Breugnon	345 Bloor Street East	Toronto	Ontario	Canada	M4W 3J6	80	(2545) BIO ACIDE (18) DÉTERGENT ACIDE 4L 4 LITRES 	11.57
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Alexandra Haché	675 Yonge Street	Toronto	Ontario	Canada	M4Y 1T2	70	(1735) TAMPONS POLISSAGE BLANC 15 5/CS (14415)	11.64
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Bach Kim Tran	8000 Av. Des Églises	Charny	Québec	Canada	G6X 1X4	50	(3955) UNTOUCHABLE FINI À PLANCHER SRT 18.9L 18.9 	10.28
+Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	50	(2950) BMF-ULTRA SAN (13) SAVON À MAINS 4L 4 LITRE	7.33
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Bach Kim Tran	760 Rue Bouvier	Québec	Québec	Canada	G2J 1A3	60	(2125) TAMPON VERT MOYEN 6X9 10/PQT 10/PQT NO.90-9	10.76
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Francis Charette	2950 Boul. Laurier	Sainte-Foy	Québec	Canada	G1V 2M4	60	(2680) BIO-ALKALI (51) ADDITIF BUANDERIE 55L 55 LI	4.65
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	20	(1990) TAMPONS LUSTRAGE ROUGE 13 5/CS (20046)	8.48
+Alice Menez	127 Church Street	Toronto	Ontario	Canada	M5C 2G5	Ana Moscal	4100 1re Avenue	Charlesbourg	Québec	Canada	G1H 2S4	60	(2215) TAMPON PLANCHER FORT NOIR 4.5X10 20/CS OCTO	8.70
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Francis Charette	26 E 23rd St	New York	New York	États-Unis	10010	80	(2350) MULTI ACTION 5 DÉSINFECTANT 4L 4 LITRES	5.61
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Francis Charette	102 1st Ave.	New York	New York	États-Unis	10003	20	(4105) GREEN EARTH 19 ÉTIQUETTE NETTOYEUR À VITRES	12.47
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Theo De Coninck	1703 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2J5	40	(2440) KLINGER NETTOYEUR À CUVETTE 4L 4 LITRES	7.57
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	90	(4615) FOREMAN 20DS POLISSEUSE 2 VITESSES 20 UN E8	9.54
+Alice Menez	127 Church Street	Toronto	Ontario	Canada	M5C 2G5	Ana Moscal	4100 1re Avenue	Charlesbourg	Québec	Canada	G1H 2S4	10	(1795) TAMPONS POLISSAGE BLANC 19 5/CS (14419)	11.64
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Chanel Larivière	167 Chambers St	New York	New York	États-Unis	10013	20	(2770) BIO DETACHANT (3) ASSAINISSEUR VAISSELLE 4L	11.11
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Yann Chapdelaine-Roy	428 Grand St	Jersey City	New Jersey	États-Unis	07303	50	(1780) TAMPONS POLISSAGE BLANC 18 5/CS (14418)	11.64
+Lia Mansour	5252 Cote Des Neiges	Montréal	Québec	Canada	H3T 1X8	Lia Mansour	5252 Cote Des Neiges	Montréal	Québec	Canada	H3T 1X8	60	(4405) PULL NETTOYEUR À CUVETTE 946ML 946 ML 07112	9.88
+Elyse Simard	552 Yonge Street	Toronto	Ontario	Canada	M4Y 1Y8	Grégoire Tabouis	267 Broadway	Brooklyn	New York	États-Unis	11211	100	(2980) BOD CLEAN NETTOYEUR ALCALIN CONCENTRÉ POUR 	7.90
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	1825 Route Des Rivières	Lévis	Québec	Canada	G7A 1C8	10	(1825) TAMPONS POLISSAGE BLANC 21 5/CS (14421)	11.64
+Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	Léa Bombart	262 Canal St	New York	New York	États-Unis	10013	80	(3880) HARD AS NAILS FINI À PLANCHER 3.78L 3.78 LI	10.52
+Elyse Simard	552 Yonge Street	Toronto	Ontario	Canada	M4Y 1Y8	Elyse Simard	552 Yonge Street	Toronto	Ontario	Canada	M4Y 1Y8	80	(3655) V-200 PLUS (7) NETTOYEUR À VITRES 4L 4 LITR	9.52
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Rakhimé Abdul Kader	234 Washington St	Hoboken	New Jersey	États-Unis	07030	90	(4585) L-S-R DELIMER AGENT DE DÉTARTRAGE 3.78L 3.7	7.20
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	60	(1345) TAMPONS DE DECAPAGE NOIR 16 5/CS (20010)	10.54
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	80	(3175) CYCLONE HE (52) DÉTERGENT POUR LESSIVE HE 4	12.35
+Abde-Nnour Rahmouni	885 Bloor St West	Toronto	Ontario	Canada	M6G 1M4	Abde-Nnour Rahmouni	885 Bloor St West	Toronto	Ontario	Canada	M6G 1M4	30	(1375) TAMPONS DE DECAPAGE NOIR 18 5/CS (20012)	10.54
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	60	(2665) BIO-ALKALI (51) ADDITIF BUANDERIE 20L 20 LI	8.19
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Derrick Celestin	356 Yonge Street	Toronto	Ontario	Canada	M5B 1S5	60	(3895) HARD AS NAILS FINI À PLANCHER 18.9L 18.9 LI	12.52
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Thomas Donadei	2010 Av. Papineau	Montréal	Québec	Canada	H2K 4J4	50	(3070) CHEF 6000 PLUS (28) NETTOYEUR EN GEL POUR P	6.65
+Alice Menez	127 Church Street	Toronto	Ontario	Canada	M5C 2G5	Alice Menez	127 Church Street	Toronto	Ontario	Canada	M5C 2G5	80	(2455) TORPEDO DÉBOUCHEUR POUR DRAIN 909ML 909 ML	7.06
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Yann Chapdelaine-Roy	428 Grand St	Jersey City	New Jersey	États-Unis	07303	70	(2905) BIO-TECH (P) NETTOYEUR À PLANCHER ET SURFAC	9.64
+Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	60	(3295) JRL ULTRA (56) ÉMULSIFIANT POUR LESSIVE 20L	9.43
+Gabriel Thiéry	44D Route Du Président-Kennedy	Lévis	Québec	Canada	G6V 6C5	Gabriel Thiéry	44D Route Du Président-Kennedy	Lévis	Québec	Canada	G6V 6C5	10	(1735) TAMPONS POLISSAGE BLANC 15 5/CS (14415)	11.64
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Philippe Hanna	640 Rue Sainte-Catherine Ouest	Montréal	Québec	Canada	H3B 1B8	70	(1570) TAMPONS NETTOYAGE BLEU 14 5/CS (20203)	4.09
+Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	40	(3355) NEUTRAL 500 PLUS (12) DÉTERGENT NEUTRE 20L 	5.00
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	1825 Route Des Rivières	Lévis	Québec	Canada	G7A 1C8	40	(1150) TAMPON BLANC LÉGER 6X9 20/BTE 3M SCOTCH-BRI	8.60
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Pénélope Breugnon	345 Bloor Street East	Toronto	Ontario	Canada	M4W 3J6	20	(3280) DÉGRAISSEUR DÉFINSECTANT (6) ASSAINISSEUR 4	4.05
+Kevin Rabah	3026 Rue Notre-Dame Ouest	Montréal	Québec	Canada	H4C 1P1	Louis Radamelle	3481 Rue Clémenceau	Beauport	Québec	Canada	G1C 0H8	10	(1210) LAINE D'ACIER KK ARGENT GROS 35GR DOUZAINE	6.12
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Thomas Donadei	2010 Av. Papineau	Montréal	Québec	Canada	H2K 4J4	100	(3655) V-200 PLUS (7) NETTOYEUR À VITRES 4L 4 LITR	9.52
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Philippe Hanna	640 Rue Sainte-Catherine Ouest	Montréal	Québec	Canada	H3B 1B8	100	(1435) TAMPONS DE DECAPAGE BRUN 18 5/CS (20245)	10.54
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Francis Charette	26 E 23rd St	New York	New York	États-Unis	10010	30	(2350) MULTI ACTION 5 DÉSINFECTANT 4L 4 LITRES	5.61
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Derrick Celestin	356 Yonge Street	Toronto	Ontario	Canada	M5B 1S5	20	(2950) BMF-ULTRA SAN (13) SAVON À MAINS 4L 4 LITRE	7.33
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Gautier Lebastard	344 Bathurst Street	Toronto	Ontario	Canada	M5T 2S3	20	(2380) BAN-O DÉSODORISANT 3.64L 3.64 LITRES	7.49
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Theo De Coninck	1703 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2J5	10	(1750) TAMPONS POLISSAGE BLANC 16 5/CS (14416)	11.64
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Marine Avedissian	6565 Boul. Wilfrid-Hamel	L'Ancienne-Lorette	Québec	Canada	G2E 5W3	50	(1705) TAMPONS POLISSAGE BLANC 13 5/CS (14413)	11.64
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	30	(1075) TAMPON VERT ULTRA ROBUSTE 6X9 12/BTE 3M SCO	7.81
+Ludovic Desharnais-Gervais	8900 Boul. Henri-Bourassa	Charlesbourg	Québec	Canada	G1G 4O3	Ludovic Desharnais-Gervais	8900 Boul. Henri-Bourassa	Charlesbourg	Québec	Canada	G1G 4O3	80	(4210) GREEN EARTH 32 ÉTIQUETTE NETTOYEUR POUR SAL	7.05
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Toni Wehbeh	197 12th St	Jersey City	New Jersey	États-Unis	07310	60	(2620) BA-54 (54) ASSOUPLISSEUR 4L 4 LITRES TS-540	11.61
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Alexandra Haché	675 Yonge Street	Toronto	Ontario	Canada	M4Y 1T2	80	(2935) BV-5 (5) DÉTERGENT POUR CHAUDRON 20L 20 LIT	3.22
+Mahsa Nikkami	3475 Boul. Sainte-Anne	Beauport	Québec	Canada	G1E 3L5	Tania Provencher	335 8th Ave	Manhattan	New York	États-Unis	10001	80	(4525) PIED POUR DISTRIBUTEUR CLARIO TOUCH FREE UN	8.09
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Yann Chapdelaine-Roy	428 Grand St	Jersey City	New Jersey	États-Unis	07303	10	(3700) D-8500 (11) BOUTEILLE VIDE 710ML UN TS-9950	5.13
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	70	(1285) SERVIETTE HUMIDE 8''X11'' 500/CS 500/CS	10.19
+Lia Mansour	5252 Cote Des Neiges	Montréal	Québec	Canada	H3T 1X8	Lia Mansour	5252 Cote Des Neiges	Montréal	Québec	Canada	H3T 1X8	10	(3745) VAPORISATEUR BEC MOUSSEUR UN TS-9950120	4.35
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	1825 Route Des Rivières	Lévis	Québec	Canada	G7A 1C8	90	(1675) TAMPONS HP500 DECAPANT PUISSANT 20 5/CS (43	7.08
+Mahsa Nikkami	3475 Boul. Sainte-Anne	Beauport	Québec	Canada	G1E 3L5	Mahsa Nikkami	52 Fulton St	New York	New York	États-Unis	10038	80	(1585) TAMPONS NETTOYAGE BLEU 15 5/CS (20204)	4.09
+Kevin Rabah	3026 Rue Notre-Dame Ouest	Montréal	Québec	Canada	H4C 1P1	Louis Radamelle	3481 Rue Clémenceau	Beauport	Québec	Canada	G1C 0H8	10	(2320) BIO KLEEN ALL DÉGRAISSEUR TOUT USAGE 4L 4 L	12.28
+Gabriel Thiéry	44D Route Du Président-Kennedy	Lévis	Québec	Canada	G6V 6C5	Gabriel Thiéry	44D Route Du Président-Kennedy	Lévis	Québec	Canada	G6V 6C5	90	(1030) TAMPON GRILLE FROIDE 4X5.25 20/BTE 3M SCOTC	11.54
+Lia Mansour	5252 Cote Des Neiges	Montréal	Québec	Canada	H3T 1X8	Philippe Marion	1692 Rue Mont Royal	Montréal	Québec	Canada	H2J 1Z5	10	(3550) SC1000 PLUS (2) DÉTERGENT LAVE-VAISSELLE 20	9.83
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Toni Wehbeh	197 12th St	Jersey City	New Jersey	États-Unis	07310	100	(2395) CHIC DÉSODORISANT POUDRE À TAPIS 1000GR 100	10.55
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Pénélope Breugnon	345 Bloor Street East	Toronto	Ontario	Canada	M4W 3J6	10	(2845) BIO-SOUR (55) NEUTRALISANT POUR LESSIVE 20L	9.90
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	10	(3640) THUNDER (52) DÉTERGENT COMPLET BUANDERIE 4L	7.14
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	30	(3925) HYBRID FINI À PLANCHER 18.9L 18.9 LITRES 66	3.12
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Theo De Coninck	1703 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2J5	40	(1570) TAMPONS NETTOYAGE BLEU 14 5/CS (20203)	4.09
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Theo De Coninck	1703 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2J5	10	(2350) MULTI ACTION 5 DÉSINFECTANT 4L 4 LITRES	5.61
+Syrine Tahar	11 St. Clair Ave East	Toronto	Ontario	Canada	M4T 1L8	Simon Thellend	30 Mall Dr W	Jersey City	New Jersey	États-Unis	07310	50	(3355) NEUTRAL 500 PLUS (12) DÉTERGENT NEUTRE 20L 	5.00
+Lia Mansour	5252 Cote Des Neiges	Montréal	Québec	Canada	H3T 1X8	Lia Mansour	710 King Street West	Toronto	Ontario	Canada	M5V 2Y6	30	(1105) TAMPON À CHAUDRON 3.5X5 20/CS NIAGARA	7.81
+Mahsa Nikkami	3475 Boul. Sainte-Anne	Beauport	Québec	Canada	G1E 3L5	Mahsa Nikkami	3475 Boul. Sainte-Anne	Beauport	Québec	Canada	G1E 3L5	10	(3295) JRL ULTRA (56) ÉMULSIFIANT POUR LESSIVE 20L	9.43
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Marine Avedissian	6565 Boul. Wilfrid-Hamel	L'Ancienne-Lorette	Québec	Canada	G2E 5W3	30	(2305) ANTI-MICROBE DISTRIBUTEUR POUR CARTOUCHE 1L	3.14
+Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	Kawtar Boulhroude	809 6th Ave	Manhattan	New York	États-Unis	10001	20	(4420) PRO R PRÉLAVAGE POUR RÉSIDU MÉTALLIQUE 946M	12.52
+Léa Bombart	1647 Rue St-Denis	Montréal	Québec	Canada	H2X 3K4	Kawtar Boulhroude	809 6th Ave	Manhattan	New York	États-Unis	10001	40	(3355) NEUTRAL 500 PLUS (12) DÉTERGENT NEUTRE 20L 	5.00
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Rakhimé Abdul Kader	2901 Sherbrooke St Est	Montréal	Québec	Canada	H1W 1B2	40	(4315) TOP FLITE 3 ÉTIQUETTE POUR NETTOYEUR TOUT-U	5.85
+Kevin Rabah	3026 Rue Notre-Dame Ouest	Montréal	Québec	Canada	H4C 1P1	Kevin Rabah	3026 Rue Notre-Dame Ouest	Montréal	Québec	Canada	H4C 1P1	10	(2470) ZEO NETTOYEUR À SALLE DE BAIN 4L 4 LITRES	3.47
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	160 Spadina Avenue	Toronto	Ontario	Canada	M5T 2C2	80	(2710) BD-53 (53) BUANDERIE 20L 20 LITRES TS-53002	7.98
+Sébastien Lourties	395 Flatbush Ave Exten	Brooklyn	New York	États-Unis	11201	Sébastien Lourties	395 Flatbush Ave Exten	Brooklyn	New York	États-Unis	11201	10	(1570) TAMPONS NETTOYAGE BLEU 14 5/CS (20203)	4.09
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Camille Balducchi	1221 King Street West	Toronto	Ontario	Canada	M6K 1G3	90	(1600) TAMPONS NETTOYAGE BLEU 16 5/CS (20205)	4.09
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Sharlie-Anne Vivier	208 Varrick St	New York	New York	États-Unis	10014	20	(4465) DISTRIBUTEUR MANUEL SAVON MOUSSE BLANC UN 9	4.02
+Ludovic Desharnais-Gervais	8900 Boul. Henri-Bourassa	Charlesbourg	Québec	Canada	G1G 4O3	Nilssa Destine	541 6th Ave	New York	New York	États-Unis	10011	60	(3355) NEUTRAL 500 PLUS (12) DÉTERGENT NEUTRE 20L 	5.00
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	404 E 14th St	New York	New York	États-Unis	10009	70	(1360) TAMPONS DE DECAPAGE NOIR 17 5/CS (20011)	10.54
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	100	(1120) TAMPON VERT MOYEN 6X9 20/BTE 3M SCOTCH-BRIT	11.54
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	215 Rue Peel	Montréal	Québec	Canada	H3C 2G6	50	(2260) TAMPON GRILLE FROIDE 4.5X6 20/BTE	12.77
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Bach Kim Tran	760 Rue Bouvier	Québec	Québec	Canada	G2J 1A3	30	(2860) BIO-SOUR (55) NEUTRALISANT POUR LESSIVE 55L	10.32
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	215 Rue Peel	Montréal	Québec	Canada	H3C 2G6	90	(1495) TAMPONS DE FROTTAGE VERT 17 5/CS (20128)	12.97
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Pénélope Breugnon	345 Bloor Street East	Toronto	Ontario	Canada	M4W 3J6	10	(1765) TAMPONS POLISSAGE BLANC 17 5/CS (14417)	11.64
+Lia Mansour	5252 Cote Des Neiges	Montréal	Québec	Canada	H3T 1X8	Lia Mansour	5252 Cote Des Neiges	Montréal	Québec	Canada	H3T 1X8	50	(1345) TAMPONS DE DECAPAGE NOIR 16 5/CS (20010)	10.54
+Lia Mansour	5252 Cote Des Neiges	Montréal	Québec	Canada	H3T 1X8	Philippe Marion	1692 Rue Mont Royal	Montréal	Québec	Canada	H2J 1Z5	70	(4615) FOREMAN 20DS POLISSEUSE 2 VITESSES 20 UN E8	9.54
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Rakhimé Abdul Kader	2901 Sherbrooke St Est	Montréal	Québec	Canada	H1W 1B2	10	(2335) BIO CULTURE CONTRÔLE D'ODEURS 4L 4 LITRES	8.14
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Chanel Larivière	167 Chambers St	New York	New York	États-Unis	10013	30	(2095) TAMPON BLEU MOYEN 3.5X5 UN NO.96-88	12.18
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Toni Wehbeh	197 12th St	Jersey City	New Jersey	États-Unis	07310	70	(1600) TAMPONS NETTOYAGE BLEU 16 5/CS (20205)	4.09
+Ludovic Desharnais-Gervais	8900 Boul. Henri-Bourassa	Charlesbourg	Québec	Canada	G1G 4O3	Ludovic Desharnais-Gervais	8900 Boul. Henri-Bourassa	Charlesbourg	Québec	Canada	G1G 4O3	90	(2680) BIO-ALKALI (51) ADDITIF BUANDERIE 55L 55 LI	4.65
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Thomas Donadei	2520 Ch. Des Quatre-Bourgeois	Sainte-Foy	Québec	Canada	G1V 4R2	10	(3775) CONTRÔLE D'ODEUR FIRE D EN AÉROSOL 5 OZ ONE	8.75
+Abde-Nnour Rahmouni	885 Bloor St West	Toronto	Ontario	Canada	M6G 1M4	Abde-Nnour Rahmouni	885 Bloor St West	Toronto	Ontario	Canada	M6G 1M4	70	(3910) HYBRID FINI À PLANCHER 3.78L 3.78 LITRES 66	4.56
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Marine Avedissian	6565 Boul. Wilfrid-Hamel	L'Ancienne-Lorette	Québec	Canada	G2E 5W3	10	(4555) RINSE AID 315 ADDITIF RINCE LAVE-VAISSELLE 	4.66
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Sharlie-Anne Vivier	208 Varrick St	New York	New York	États-Unis	10014	70	(4405) PULL NETTOYEUR À CUVETTE 946ML 946 ML 07112	9.88
+Mahsa Nikkami	3475 Boul. Sainte-Anne	Beauport	Québec	Canada	G1E 3L5	Mahsa Nikkami	3475 Boul. Sainte-Anne	Beauport	Québec	Canada	G1E 3L5	40	(1675) TAMPONS HP500 DECAPANT PUISSANT 20 5/CS (43	7.08
+Bach Kim Tran	98 Danforth Ave	Toronto	Ontario	Canada	M4K 1N2	Toni Wehbeh	197 12th St	Jersey City	New Jersey	États-Unis	07310	50	(1720) TAMPONS POLISSAGE BLANC 14 5/CS (14414)	11.64
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Marine Avedissian	6565 Boul. Wilfrid-Hamel	L'Ancienne-Lorette	Québec	Canada	G2E 5W3	100	(4075) GREEN EARTH 20 NETTOYEUR À PLANCHER QUOTIDI	5.46
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	136 W 3rd St	New York	New York	États-Unis	10012	70	(2395) CHIC DÉSODORISANT POUDRE À TAPIS 1000GR 100	10.55
+Francis Charette	114 Delancey St	New York	New York	États-Unis	10002	Francis Charette	102 1st Ave.	New York	New York	États-Unis	10003	50	(3115) COMPLET (52) DÉTERGENT EN POUDRE POUR LESSI	5.08
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Chanel Larivière	167 Chambers St	New York	New York	États-Unis	10013	80	(4570) BLAZE DÉTERGENT LAVE-VAISSELLE 3.63KG 3.63 	12.92
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Derrick Celestin	356 Yonge Street	Toronto	Ontario	Canada	M5B 1S5	20	(3190) CYCLONE HE (52) DÉTERGENT POUR LESSIVE HE 2	8.13
+Kevin Rabah	3026 Rue Notre-Dame Ouest	Montréal	Québec	Canada	H4C 1P1	Louis Radamelle	3481 Rue Clémenceau	Beauport	Québec	Canada	G1C 0H8	50	(3430) P-4000 (4) POUDRE TREMPAGE USTENSILE 20KG 2	6.76
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Yann Chapdelaine-Roy	428 Grand St	Jersey City	New Jersey	États-Unis	07303	40	(1585) TAMPONS NETTOYAGE BLEU 15 5/CS (20204)	4.09
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Rakhimé Abdul Kader	2901 Sherbrooke St Est	Montréal	Québec	Canada	H1W 1B2	100	(1885) TAMPONS ULTRA HAUTE VITESSE BRUNISSAGE AQUA	6.71
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Marine Avedissian	6565 Boul. Wilfrid-Hamel	L'Ancienne-Lorette	Québec	Canada	G2E 5W3	40	(2875) BIO-TECH (O) NEUTRALISANT D'ODEUR 1L 1 LITR	3.02
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Marine Avedissian	6565 Boul. Wilfrid-Hamel	L'Ancienne-Lorette	Québec	Canada	G2E 5W3	70	(3325) L-4000 (4) TREMPAGE USTENSILE 20L 20 LITRES	3.64
+Alice Menez	127 Church Street	Toronto	Ontario	Canada	M5C 2G5	Ana Moscal	4100 1re Avenue	Charlesbourg	Québec	Canada	G1H 2S4	30	(1975) TAMPONS LUSTRAGE ROUGE 12 5/CS (20045)	8.48
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	30	(2485) AF-160 (16) PURIFICATEUR D'AIR FRUITÉ 4L 4 	9.05
+Thomas Donadei	850 Rue Sainte-Catherine Est	Montréal	Québec	Canada	H2L 2O0	Philippe Hanna	640 Rue Sainte-Catherine Ouest	Montréal	Québec	Canada	H3B 1B8	80	(4135) GREEN EARTH 13 ÉTIQUETTE DÉGRAISSEUR POUR S	11.12
+Sébastien Lourties	395 Flatbush Ave Exten	Brooklyn	New York	États-Unis	11201	Sébastien Lourties	395 Flatbush Ave Exten	Brooklyn	New York	États-Unis	11201	80	(1315) TAMPONS DE DECAPAGE NOIR 13 5/CS (20007)	10.54
+Alice Menez	127 Church Street	Toronto	Ontario	Canada	M5C 2G5	Ana Moscal	4100 1re Avenue	Charlesbourg	Québec	Canada	G1H 2S4	100	(3970) EXTREME DÉCAPANT À PLANCHER 3.78L 3.78 LITR	11.09
+Mahsa Nikkami	3475 Boul. Sainte-Anne	Beauport	Québec	Canada	G1E 3L5	Tania Provencher	335 8th Ave	Manhattan	New York	États-Unis	10001	70	(4480) DISTRIBUTEUR MANUEL SAVON MOUSSE NOIR UN 91	6.73
+Ludovic Desharnais-Gervais	8900 Boul. Henri-Bourassa	Charlesbourg	Québec	Canada	G1G 4O3	Ludovic Desharnais-Gervais	8900 Boul. Henri-Bourassa	Charlesbourg	Québec	Canada	G1G 4O3	30	(3190) CYCLONE HE (52) DÉTERGENT POUR LESSIVE HE 2	8.13
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	215 Rue Peel	Montréal	Québec	Canada	H3C 2G6	10	(1300) TAMPONS DE DECAPAGE NOIR 12 5/CS (20006)	10.54
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	215 Rue Peel	Montréal	Québec	Canada	H3C 2G6	70	(2545) BIO ACIDE (18) DÉTERGENT ACIDE 4L 4 LITRES 	11.57
+Lia Mansour	5252 Cote Des Neiges	Montréal	Québec	Canada	H3T 1X8	Lia Mansour	5252 Cote Des Neiges	Montréal	Québec	Canada	H3T 1X8	10	(1915) TAMPONS ULTRA HAUTE VITESSE BRUNISSAGE AQUA	3.10
+Sébastien Lourties	395 Flatbush Ave Exten	Brooklyn	New York	États-Unis	11201	Mayssa Mahmoud	1 Rue Notre-Dame Ouest	Montréal	Québec	Canada	H2Y 1S5	90	(1090) TAMPON À CHAUDRON 3.5X5 10/BTE 3M SCOTCH-BR	6.35
+Pénélope Breugnon	325 Grove St	Jersey City	New Jersey	États-Unis	07303	Derrick Celestin	356 Yonge Street	Toronto	Ontario	Canada	M5B 1S5	70	(2440) KLINGER NETTOYEUR À CUVETTE 4L 4 LITRES	7.57
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Lucas Larbodière	470 Yonge Street	Toronto	Ontario	Canada	M4Y 1X5	70	(3460) PEROXYDE D'HYDROGÈNE 27 (53) 20L 20 LITRES 	11.09
+Rakhimé Abdul Kader	123 Yonge St	Toronto	Ontario	Canada	M5C 1W4	Rakhimé Abdul Kader	2901 Sherbrooke St Est	Montréal	Québec	Canada	H1W 1B2	20	(2140) TAMPON VERT MOYEN 6X9 UN NO.90-96 (196F-226	12.91
+Philippe Helal	401 Park Ave S	New York	New York	États-Unis	10016	Philippe Helal	1825 Route Des Rivières	Lévis	Québec	Canada	G7A 1C8	20	(2290) PIERRE GRILLE & PLAQUE 8X4 UN	12.92
+Elyse Simard	552 Yonge Street	Toronto	Ontario	Canada	M4Y 1Y8	Grégoire Tabouis	267 Broadway	Brooklyn	New York	États-Unis	11211	10	(2530) AR2000 PLUS (1) ADDITIF DE RINÇAGE VAISSELL	11.09
+Lia Mansour	5252 Cote Des Neiges	Montréal	Québec	Canada	H3T 1X8	Philippe Marion	1692 Rue Mont Royal	Montréal	Québec	Canada	H2J 1Z5	90	(3940) UNTOUCHABLE FINI À PLANCHER SRT 3.78L 3.78 	9.68
+Elyse Simard	552 Yonge Street	Toronto	Ontario	Canada	M4Y 1Y8	Grégoire Tabouis	267 Broadway	Brooklyn	New York	États-Unis	11211	10	(4615) FOREMAN 20DS POLISSEUSE 2 VITESSES 20 UN E8	9.54
